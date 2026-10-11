@@ -1,6 +1,6 @@
 # Daily Relocation Tech Jobs from Jaabz
 
-_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-10-11 08:13**_
+_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-10-11 08:16**_
 
 Browse more: [Relocation hub](https://jaabz.com/jobs/relocation)
 
