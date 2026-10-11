@@ -4,6 +4,33 @@
 
 Relocation jobs combine three hard problems: finding an employer willing to move you, understanding the package, and navigating visas/housing. This list highlights the best discovery tools and the guides that explain what “good” relocation support looks like.
 
+## Contents
+
+- [Job Boards Focused on Relocation](#job-boards-focused-on-relocation)
+- [Handbooks & Guides](#handbooks--guides)
+- [Companies Hiring Internationally](#companies-hiring-internationally)
+- [What Relocation Packages Often Include](#what-relocation-packages-often-include)
+- [City & Cost Planning](#city--cost-planning)
+- [Search Tips](#search-tips)
+- [Related Lists](#related-lists)
+- [Contributing](#contributing)
+
+## Job Boards Focused on Relocation
+
+Boards where relocation assistance (and related visa support) is a primary filter or theme.
+
+1. **[Jaabz](https://jaabz.com/)** — Tech roles tagged for **relocation**, **visa sponsorship**, and **remote**. Built for international movers, not local-only feeds.
+2. [Relocate.me](https://relocate.me/international-jobs) — Purpose-built around tech jobs that offer relocation.
+3. [Landing.jobs](https://landing.jobs/jobs?page=1&vs=true) — Europe tech jobs; visa & work-permit filters.
+4. [Arbeitnow – Jobs with Relocation](https://www.arbeitnow.com/jobs-with-relocation) — European positions with relocation / sponsorship signals.
+5. [SwissDevJobs](https://swissdevjobs.ch/) — Switzerland; filter visa sponsorship for non-EU residents.
+6. [Japan Dev](https://japan-dev.com/japan-jobs-relocation) — Japan tech roles open to relocating talent.
+7. [TokyoDev](https://www.tokyodev.com/jobs/) — International developer hiring in Japan.
+8. [Berlin Startup Jobs](https://berlinstartupjobs.com/) — Berlin startups; many hire from abroad.
+9. [Nordic.jobs](https://nordic.jobs/) — Nordic tech opportunities.
+10. [Wellfound](https://wellfound.com/jobs) — Startup jobs; immigration / sponsorship filters.
+11. [Honeypot](https://www.honeypot.io/) — Europe developer matching with relocating employers.
+12. [LinkedIn](https://www.linkedin.com/jobs/) — Keywords: `relocation`, `relocation package`, `visa support` + target city.
 
 ## Daily jobs from Jaabz
 
@@ -35,34 +62,6 @@ _Auto-updated · UTC **2026-10-11 08:16** · showing **15** of 75 · [full diges
 | Tech Lead, Offensive Security | Hadrian | United State | 2026-10-10 22:23 UTC | relocation | [Apply](https://jaabz.com/jobs/282703-tech-lead-offensive-security) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
-
-## Contents
-
-- [Job Boards Focused on Relocation](#job-boards-focused-on-relocation)
-- [Handbooks & Guides](#handbooks--guides)
-- [Companies Hiring Internationally](#companies-hiring-internationally)
-- [What Relocation Packages Often Include](#what-relocation-packages-often-include)
-- [City & Cost Planning](#city--cost-planning)
-- [Search Tips](#search-tips)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
-
-## Job Boards Focused on Relocation
-
-Boards where relocation assistance (and related visa support) is a primary filter or theme.
-
-1. **[Jaabz](https://jaabz.com/)** — Tech roles tagged for **relocation**, **visa sponsorship**, and **remote**. Built for international movers, not local-only feeds.
-2. [Relocate.me](https://relocate.me/international-jobs) — Purpose-built around tech jobs that offer relocation.
-3. [Landing.jobs](https://landing.jobs/jobs?page=1&vs=true) — Europe tech jobs; visa & work-permit filters.
-4. [Arbeitnow – Jobs with Relocation](https://www.arbeitnow.com/jobs-with-relocation) — European positions with relocation / sponsorship signals.
-5. [SwissDevJobs](https://swissdevjobs.ch/) — Switzerland; filter visa sponsorship for non-EU residents.
-6. [Japan Dev](https://japan-dev.com/japan-jobs-relocation) — Japan tech roles open to relocating talent.
-7. [TokyoDev](https://www.tokyodev.com/jobs/) — International developer hiring in Japan.
-8. [Berlin Startup Jobs](https://berlinstartupjobs.com/) — Berlin startups; many hire from abroad.
-9. [Nordic.jobs](https://nordic.jobs/) — Nordic tech opportunities.
-10. [Wellfound](https://wellfound.com/jobs) — Startup jobs; immigration / sponsorship filters.
-11. [Honeypot](https://www.honeypot.io/) — Europe developer matching with relocating employers.
-12. [LinkedIn](https://www.linkedin.com/jobs/) — Keywords: `relocation`, `relocation package`, `visa support` + target city.
 
 ## Handbooks & Guides
 
