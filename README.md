@@ -11,6 +11,21 @@ Fresh **Relocation** roles are updated automatically every day:
 
 ➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Relocation on Jaabz](https://jaabz.com/jobs/relocation)
 
+<!-- JAABZ-DAILY-JOBS:START -->
+## Today's Relocation jobs from Jaabz
+
+_Auto-updated · UTC **2026-10-11** · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+
+| Role | Company | Country | Tags | Link |
+| --- | --- | --- | --- | --- |
+| Senior Director of Human Resources (HR) - Cairo, Egypt | imploy egypt | EGYPT | visa, relocation | [Apply](https://jaabz.com/jobs/274002-human-resources-manager) |
+| Systems Administrator (Manager / Advisor) | Imploy | SAUDI ARABIA | visa, relocation | [Apply](https://jaabz.com/jobs/271071-sap-system-administrator) |
+| Google Ads & SEO Specialist (Internship) | extramus.eu | ITALY | relocation | [Apply](https://jaabz.com/jobs/273327-google-ads-manager) |
+| Data Engineer (Machine Learning) | wayve | GERMANY | visa, relocation | [Apply](https://jaabz.com/jobs/282791-data-engineer-app-sw) |
+| Data Science Manager, Applied Methods (Autonomy) | wayve | UNITED KINGDOM | visa, relocation | [Apply](https://jaabz.com/jobs/282792-data-science-manager) |
+
+<!-- JAABZ-DAILY-JOBS:END -->
+
 ## Contents
 
 - [Job Boards Focused on Relocation](#job-boards-focused-on-relocation)
