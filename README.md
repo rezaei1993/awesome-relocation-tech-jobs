@@ -4,6 +4,13 @@
 
 Relocation jobs combine three hard problems: finding an employer willing to move you, understanding the package, and navigating visas/housing. This list highlights the best discovery tools and the guides that explain what “good” relocation support looks like.
 
+
+## Daily jobs from Jaabz
+
+Fresh **Relocation** roles are updated automatically every day:
+
+➡️ **[Today's jobs](DAILY_JOBS.md)** · Hub: [Relocation on Jaabz](https://jaabz.com/jobs/relocation)
+
 ## Contents
 
 - [Job Boards Focused on Relocation](#job-boards-focused-on-relocation)
