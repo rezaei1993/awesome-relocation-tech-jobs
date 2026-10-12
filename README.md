@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-11 08:16** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-12 16:19** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Director of Human Resources (HR) - Cairo, Egypt | imploy egypt | EGYPT | 2026-10-11 07:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274002-human-resources-manager) |
-| Systems Administrator (Manager / Advisor) | Imploy | SAUDI ARABIA | 2026-10-11 07:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/271071-sap-system-administrator) |
-| Google Ads & SEO Specialist (Internship) | extramus.eu | ITALY | 2026-10-11 06:26 UTC | relocation | [Apply](https://jaabz.com/jobs/273327-google-ads-manager) |
-| Data Engineer (Machine Learning) | wayve | GERMANY | 2026-10-11 06:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282791-data-engineer-app-sw) |
-| Data Science Manager, Applied Methods (Autonomy) | wayve | UNITED KINGDOM | 2026-10-11 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282792-data-science-manager) |
-| Talent Acquisition Specialist - Fleet Operations (Fixed-Term Contract) | wayve | UNITED KINGDOM | 2026-10-11 06:06 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282786-associate-talent-partner) |
-| Senior Application Software Engineer (Autonomous Driving) | wayve | United State | 2026-10-11 06:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/282787-application-software-engineer-embedded-software-c) |
-| Member of Technical Staff, Applied AI | gc ai | CANADA | 2026-10-11 04:40 UTC | relocation | [Apply](https://jaabz.com/jobs/282072-member-of-technical-staff-applied-ai) |
-| Member of Technical Staff, Growth Engineering | gc ai | United State | 2026-10-11 04:11 UTC | relocation | [Apply](https://jaabz.com/jobs/282776-member-of-technical-staff-growth-engineering) |
-| HR Analyst – Local Agents | European Investment Bank (EIB) | ITALY | 2026-10-11 02:48 UTC | relocation | [Apply](https://jaabz.com/jobs/274496-hr-analyst-employment-rewards-based-in-luxembourg) |
-| Senior Software Engineer, Core Systems (Defense AI Robotics) - Scout AI | engradar | United State | 2026-10-11 01:07 UTC | relocation | [Apply](https://jaabz.com/jobs/282732-software-engineer-core-systems) |
-| Software Engineer – Full Stack with AI Integration | Bending Spoons | GERMANY | 2026-10-11 00:22 UTC | relocation | [Apply](https://jaabz.com/jobs/277887-software-engineer) |
-| Back-End Developer | extramus.eu | ITALY | 2026-10-10 23:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/243859-back-end-development) |
-| Senior Performance Marketing Manager – B2B Corporate Services | Beyond-ED | EGYPT | 2026-10-10 23:08 UTC | relocation | [Apply](https://jaabz.com/jobs/282713-senior-performance-marketer) |
-| Tech Lead, Offensive Security | Hadrian | United State | 2026-10-10 22:23 UTC | relocation | [Apply](https://jaabz.com/jobs/282703-tech-lead-offensive-security) |
+| Senior AI Engineer (Generative AI & Cloud-Native Solutions) | Wypoon Technologies | NETHERLANDS | 2026-10-12 15:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283335-ai-engineer-a-azure-generative-ai-relocation-provided) |
+| Lead / Staff QA Engineer | talentmate | UNITED ARAB EMIRATES | 2026-10-12 15:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283324-staff-quality-assurance-engineer) |
+| Staff Frontend Engineer | Scorewarrior | CYPRUS | 2026-10-12 15:30 UTC | relocation | [Apply](https://jaabz.com/jobs/283326-staff-frontend-engineer) |
+| Senior (Lead) Cloud Data Engineer | Sievo | FINLAND | 2026-10-12 15:12 UTC | relocation | [Apply](https://jaabz.com/jobs/283315-senior-lead-cloud-data-engineer) |
+| Senior Java Developer | KWAN | PORTUGAL | 2026-10-12 14:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283312-back-end-developer) |
+| Backend Engineer (Rust) | Signify Technology | FRANCE | 2026-10-12 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/250411-backend-rust-engineer) |
+| Senior/Staff Android/Kotlin Software Engineer | Recruiting from Scratch | United State | 2026-10-12 14:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274945-senior-android-engineer) |
+| Mechanical Engineer - Methanation Reactor Sub-system | rivan industries | UNITED KINGDOM | 2026-10-12 13:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283267-mechanical-engineer-methanation) |
+| Senior Linux Systems Administrator (Automation & Orchestration) | trinzic | United State | 2026-10-12 12:36 UTC | relocation | [Apply](https://jaabz.com/jobs/283260-systems-administrator-linux-automation-focus) |
+| Software Engineer (AI-Integrated, End-to-End Ownership) | Bending Spoons | GERMANY | 2026-10-12 12:31 UTC | relocation | [Apply](https://jaabz.com/jobs/276004-graduate-software-engineer) |
+| Manager - Performance Marketing (Consumer Acquisition) | Meesho | INDIA | 2026-10-12 11:53 UTC | relocation | [Apply](https://jaabz.com/jobs/283242-manager-performance-marketing) |
+| Engineering & AI Talent Community – Airline Commercial Technology (Hybrid/Europe) | longtail technologies | SPAIN | 2026-10-12 11:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283237-longtail-talent-community) |
+| Trading Platforms Enterprise Infrastructure Architect (MT4/MT5) | hfm | CYPRUS | 2026-10-12 11:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283232-trading-platforms-enterprise-infrastructure-architect) |
+| Senior or Principal Recruitment Consultant - US Data and AI | pb select | UNITED KINGDOM | 2026-10-12 11:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283233-senior-recruitment-consultant) |
+| Lead Brand Designer, Web (Senior) | Wiraa | United State | 2026-10-12 11:25 UTC | relocation | [Apply](https://jaabz.com/jobs/283231-brand-designer-web) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
