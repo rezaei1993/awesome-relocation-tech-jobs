@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-12 16:19** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-13 14:41** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior AI Engineer (Generative AI & Cloud-Native Solutions) | Wypoon Technologies | NETHERLANDS | 2026-10-12 15:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283335-ai-engineer-a-azure-generative-ai-relocation-provided) |
-| Lead / Staff QA Engineer | talentmate | UNITED ARAB EMIRATES | 2026-10-12 15:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283324-staff-quality-assurance-engineer) |
-| Staff Frontend Engineer | Scorewarrior | CYPRUS | 2026-10-12 15:30 UTC | relocation | [Apply](https://jaabz.com/jobs/283326-staff-frontend-engineer) |
-| Senior (Lead) Cloud Data Engineer | Sievo | FINLAND | 2026-10-12 15:12 UTC | relocation | [Apply](https://jaabz.com/jobs/283315-senior-lead-cloud-data-engineer) |
-| Senior Java Developer | KWAN | PORTUGAL | 2026-10-12 14:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283312-back-end-developer) |
-| Backend Engineer (Rust) | Signify Technology | FRANCE | 2026-10-12 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/250411-backend-rust-engineer) |
-| Senior/Staff Android/Kotlin Software Engineer | Recruiting from Scratch | United State | 2026-10-12 14:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274945-senior-android-engineer) |
-| Mechanical Engineer - Methanation Reactor Sub-system | rivan industries | UNITED KINGDOM | 2026-10-12 13:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283267-mechanical-engineer-methanation) |
-| Senior Linux Systems Administrator (Automation & Orchestration) | trinzic | United State | 2026-10-12 12:36 UTC | relocation | [Apply](https://jaabz.com/jobs/283260-systems-administrator-linux-automation-focus) |
-| Software Engineer (AI-Integrated, End-to-End Ownership) | Bending Spoons | GERMANY | 2026-10-12 12:31 UTC | relocation | [Apply](https://jaabz.com/jobs/276004-graduate-software-engineer) |
-| Manager - Performance Marketing (Consumer Acquisition) | Meesho | INDIA | 2026-10-12 11:53 UTC | relocation | [Apply](https://jaabz.com/jobs/283242-manager-performance-marketing) |
-| Engineering & AI Talent Community – Airline Commercial Technology (Hybrid/Europe) | longtail technologies | SPAIN | 2026-10-12 11:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283237-longtail-talent-community) |
-| Trading Platforms Enterprise Infrastructure Architect (MT4/MT5) | hfm | CYPRUS | 2026-10-12 11:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283232-trading-platforms-enterprise-infrastructure-architect) |
-| Senior or Principal Recruitment Consultant - US Data and AI | pb select | UNITED KINGDOM | 2026-10-12 11:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283233-senior-recruitment-consultant) |
-| Lead Brand Designer, Web (Senior) | Wiraa | United State | 2026-10-12 11:25 UTC | relocation | [Apply](https://jaabz.com/jobs/283231-brand-designer-web) |
+| Robot Learning Research Engineer | Edison Smart® | FRANCE | 2026-10-13 14:15 UTC | relocation | [Apply](https://jaabz.com/jobs/283746-robot-learning-research-engineer) |
+| AI Engineer | Tech Consulting | United State | 2026-10-13 14:07 UTC | relocation | [Apply](https://jaabz.com/jobs/283717-machine-learning-engineer) |
+| Staff Applied AI Engineer (Founding Member) - Platform & Agent Architecture | sirius lync | United State | 2026-10-13 14:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283719-applied-ai-staff-agent-engineer-founding-member-nyc-sf-onsite) |
+| Junior Cloud Engineer (Multi-Cloud, Infrastructure-as-Code) | Tech Consulting | United State | 2026-10-13 14:04 UTC | relocation | [Apply](https://jaabz.com/jobs/283721-junior-cloud-engineer) |
+| Enterprise Network Architect | hfm | GREECE | 2026-10-13 14:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283722-enterprise-network-architect) |
+| Senior Product Graphic Designer | Helsing | GERMANY | 2026-10-13 14:00 UTC | relocation | [Apply](https://jaabz.com/jobs/283723-senior-product-graphic-designer) |
+| Enterprise Infrastructure Architect – MT4/MT5 Trading Platforms | hfm | MALAYSIA | 2026-10-13 13:52 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283725-trading-platforms-enterprise-infrastructure-architect) |
+| Enterprise Solutions Architect | hfm | GREECE | 2026-10-13 13:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283726-enterprise-solutions-architect) |
+| Enterprise Software Architect | hfm | GREECE | 2026-10-13 13:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283727-enterprise-software-architect) |
+| Enterprise Cloud Architect (AWS) | hfm | GREECE | 2026-10-13 13:44 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283728-enterprise-cloud-architect) |
+| Senior Data Scientist, Generative AI & Causal Inference | torentify | United State | 2026-10-13 13:40 UTC | relocation | [Apply](https://jaabz.com/jobs/283730-data-scientist-remote) |
+| Principal Machine Learning Scientist - Trajectory Generation | General Motors | United State | 2026-10-13 13:32 UTC | relocation | [Apply](https://jaabz.com/jobs/102636-principal-machine-learning-scientist-trajectory-generation) |
+| Junior AI/ML Engineer | Tech Consulting | United State | 2026-10-13 13:04 UTC | relocation | [Apply](https://jaabz.com/jobs/283700-machine-learning-engineer) |
+| Junior Data Scientist (AI/ML) – Client-Facing Projects | Tech Consulting | United State | 2026-10-13 13:02 UTC | relocation | [Apply](https://jaabz.com/jobs/283701-data-scientist) |
+| Technical Writer | gainrep | SINGAPORE | 2026-10-13 12:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283705-technical-writer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
