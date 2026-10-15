@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-14 12:34** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-15 12:18** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Principal AI Evaluation Engineer | Discovered MENA | EMEA | 2026-10-14 12:05 UTC | relocation | [Apply](https://jaabz.com/jobs/284393-principal-evals-engineer-arabic-speaking) |
-| Senior Product Manager – Manufacturing Insights Platform | factbird | GERMANY | 2026-10-14 12:00 UTC | relocation | [Apply](https://jaabz.com/jobs/284400-product-manager) |
-| Junior Data Engineer | Tech Consulting | United State | 2026-10-14 11:23 UTC | relocation | [Apply](https://jaabz.com/jobs/284405-data-engineer) |
-| Senior Palantir Foundry Engineer (Professional Services) - Dubai, UAE | ovi | UNITED ARAB EMIRATES | 2026-10-14 11:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284396-palantir-foundry-engineer-professional-services-full-time) |
-| Senior Test Automation Engineer | shiftbase | NETHERLANDS | 2026-10-14 11:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/247735-qa-engineer) |
-| C++ Engineer - Ultra Low-Latency HFT Infrastructure | Bonhill Partners | UNITED KINGDOM | 2026-10-14 10:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284367-c-developer-hft) |
-| Lead Data Analyst, Mobile Gaming (Pocket Champs) | Madbox | GREATER PARIS METROPOLITAN REGION | 2026-10-14 10:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284369-lead-data-analyst) |
-| Senior Java Developer | KWAN | LISBON METROPOLITAN AREA | 2026-10-14 10:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284374-senior-java-developer) |
-| Senior QA Engineer, Lending & Risk Decisioning | botim | ARMENIA | 2026-10-14 10:07 UTC | relocation | [Apply](https://jaabz.com/jobs/284381-qa-engineer-backend-relocation-to-georgia) |
-| UI Frontend Engineer Tech Lead | KWAN | PORTUGAL | 2026-10-14 09:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284378-ui-frontend-engineer-tech-lead) |
-| PR & Integrated Marketing Lead (Pakistan to Nigeria) | transsion | PAKISTAN | 2026-10-14 09:56 UTC | relocation | [Apply](https://jaabz.com/jobs/284371-marketing-manager) |
-| Founding Solutions Architect, AI Infrastructure & Benchmarking | Prime Intellect | United State | 2026-10-14 08:42 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/284359-founding-solutions-architect) |
-| Senior Unity Developer | lapitopa | CYPRUS | 2026-10-14 07:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284326-senior-unity-developer) |
-| Senior C# .NET Developer | hfm | GREECE | 2026-10-14 07:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284329-senior-cnet-developer) |
-| Quant Researcher, Mid-Frequency Equities | Durlston Partners | UNITED ARAB EMIRATES | 2026-10-14 07:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284340-quantitative-researcher) |
+| Full Stack Engineer – Satellite Technology (Mid‑Senior Level) | Switch Tech Talent | FINLAND | 2026-10-15 12:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285064-full-stack-engineer-product-spacetech) |
+| Senior Backend Software Engineer (Satellite Analytics) – Cloud-Native Python/React | Switch Tech Talent | FINLAND | 2026-10-15 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285062-senior-software-engineer-product-spacetech) |
+| Platform DevOps Engineer | Miratech | INDIA | 2026-10-15 11:20 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/269420-devops-engineer) |
+| Senior AI Solution Architect | right seat | RWANDA | 2026-10-15 11:10 UTC | relocation | [Apply](https://jaabz.com/jobs/285035-ai-solution-architect) |
+| System Administrator - Red Hat Linux | terakoya academia inc. | NEPAL | 2026-10-15 10:30 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285023-system-administrator-redhat-linux) |
+| Senior Identity and Access Management (IAM) Engineer | Riot Platforms, Inc. | United State | 2026-10-15 10:29 UTC | relocation | [Apply](https://jaabz.com/jobs/285024-senior-engineer-identity-access-management-iam) |
+| Senior Python Developer (Quantitative Trading) | Bonhill Partners | HONG KONG SAR | 2026-10-15 10:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285019-python-developer) |
+| Head of Brand & Creative | Satispay | FRANCE | 2026-10-15 10:19 UTC | relocation | [Apply](https://jaabz.com/jobs/285012-head-of-brand) |
+| Head of Go-to-Market | flexion | SWITZERLAND | 2026-10-15 10:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285014-head-of-go-to-market) |
+| Senior Computational Electromagnetics Software Engineer | Sandia National Laboratories | United State | 2026-10-15 09:56 UTC | relocation | [Apply](https://jaabz.com/jobs/285002-rd-se-computer-science-no-post-fnits-rivero) |
+| Lead Full Stack Engineer (B2B SaaS) | talentia consulting | VIETNAM | 2026-10-15 09:41 UTC | relocation | [Apply](https://jaabz.com/jobs/284992-relocation-to-bangkoka-leadprincipal-full-stack-vuejs-nodejspython) |
+| Junior 2D Artist (Isometric) | volka | CYPRUS | 2026-10-15 09:33 UTC | relocation | [Apply](https://jaabz.com/jobs/284993-junior-2d-artist-colouring) |
+| Senior Creative Designer (Brand & Visual Identity) | brevo | FRANCE | 2026-10-15 09:22 UTC | relocation | [Apply](https://jaabz.com/jobs/284988-senior-creative-designer) |
+| Entry-Level Machine Learning Engineer (Data Engineering Focus) – Full-Time W2 | Tech Consulting | United State | 2026-10-15 09:17 UTC | relocation | [Apply](https://jaabz.com/jobs/284987-machine-learning-engineer) |
+| Lead CAD Mechanical Engineer (SolidWorks, RF/Antenna Modeling) | SAIC | United State | 2026-10-15 09:08 UTC | relocation | [Apply](https://jaabz.com/jobs/284980-cad-design-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
