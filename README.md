@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-15 12:18** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-16 12:00** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Full Stack Engineer – Satellite Technology (Mid‑Senior Level) | Switch Tech Talent | FINLAND | 2026-10-15 12:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285064-full-stack-engineer-product-spacetech) |
-| Senior Backend Software Engineer (Satellite Analytics) – Cloud-Native Python/React | Switch Tech Talent | FINLAND | 2026-10-15 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285062-senior-software-engineer-product-spacetech) |
-| Platform DevOps Engineer | Miratech | INDIA | 2026-10-15 11:20 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/269420-devops-engineer) |
-| Senior AI Solution Architect | right seat | RWANDA | 2026-10-15 11:10 UTC | relocation | [Apply](https://jaabz.com/jobs/285035-ai-solution-architect) |
-| System Administrator - Red Hat Linux | terakoya academia inc. | NEPAL | 2026-10-15 10:30 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285023-system-administrator-redhat-linux) |
-| Senior Identity and Access Management (IAM) Engineer | Riot Platforms, Inc. | United State | 2026-10-15 10:29 UTC | relocation | [Apply](https://jaabz.com/jobs/285024-senior-engineer-identity-access-management-iam) |
-| Senior Python Developer (Quantitative Trading) | Bonhill Partners | HONG KONG SAR | 2026-10-15 10:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285019-python-developer) |
-| Head of Brand & Creative | Satispay | FRANCE | 2026-10-15 10:19 UTC | relocation | [Apply](https://jaabz.com/jobs/285012-head-of-brand) |
-| Head of Go-to-Market | flexion | SWITZERLAND | 2026-10-15 10:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285014-head-of-go-to-market) |
-| Senior Computational Electromagnetics Software Engineer | Sandia National Laboratories | United State | 2026-10-15 09:56 UTC | relocation | [Apply](https://jaabz.com/jobs/285002-rd-se-computer-science-no-post-fnits-rivero) |
-| Lead Full Stack Engineer (B2B SaaS) | talentia consulting | VIETNAM | 2026-10-15 09:41 UTC | relocation | [Apply](https://jaabz.com/jobs/284992-relocation-to-bangkoka-leadprincipal-full-stack-vuejs-nodejspython) |
-| Junior 2D Artist (Isometric) | volka | CYPRUS | 2026-10-15 09:33 UTC | relocation | [Apply](https://jaabz.com/jobs/284993-junior-2d-artist-colouring) |
-| Senior Creative Designer (Brand & Visual Identity) | brevo | FRANCE | 2026-10-15 09:22 UTC | relocation | [Apply](https://jaabz.com/jobs/284988-senior-creative-designer) |
-| Entry-Level Machine Learning Engineer (Data Engineering Focus) – Full-Time W2 | Tech Consulting | United State | 2026-10-15 09:17 UTC | relocation | [Apply](https://jaabz.com/jobs/284987-machine-learning-engineer) |
-| Lead CAD Mechanical Engineer (SolidWorks, RF/Antenna Modeling) | SAIC | United State | 2026-10-15 09:08 UTC | relocation | [Apply](https://jaabz.com/jobs/284980-cad-design-engineer) |
+| Monetization Specialist | air apps | GREATER ROME METROPOLITAN AREA | 2026-10-16 11:52 UTC | relocation | [Apply](https://jaabz.com/jobs/285544-product-growth-specialist) |
+| Senior Gameplay Programmer - AAA Title | welevel | GERMANY | 2026-10-16 11:51 UTC | relocation | [Apply](https://jaabz.com/jobs/244530-senior-unreal-developer-mfd) |
+| Junior Mobile Platform AI Developer | Tech Consulting | United State | 2026-10-16 11:33 UTC | relocation | [Apply](https://jaabz.com/jobs/285666-mobile-application-developer) |
+| Senior Backend Software Engineer (Node.js & TypeScript) | appnation | TüRKIYE | 2026-10-16 11:16 UTC | relocation | [Apply](https://jaabz.com/jobs/285642-senior-software-engineer-backend) |
+| Senior C++ / Rust Developer (High-Load Systems) | metaquotes ltd. | CYPRUS | 2026-10-16 11:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285645-senior-c-rust-developer-for-high-load-systems) |
+| Backend Software Engineer (AI-Powered Mobile Apps) | appnation | TüRKIYE | 2026-10-16 11:06 UTC | relocation | [Apply](https://jaabz.com/jobs/285653-software-engineer-backend) |
+| Game Director, WHAT THE CAR? | triband | DENMARK | 2026-10-16 10:39 UTC | relocation | [Apply](https://jaabz.com/jobs/285630-game-director) |
+| Lead Software Engineer (C#/.NET) | NEXT Ventures | STUTTGART REGION | 2026-10-16 10:36 UTC | relocation | [Apply](https://jaabz.com/jobs/285629-lead-software-engineer-mfd-a-cnet-up-to-a110000-package-relocation-support) |
+| Principal Researcher (Full Technical Staff) – Cybersecurity & Reverse Engineering | Rogue Talent | GREATER BOSTON | 2026-10-16 09:21 UTC | relocation | [Apply](https://jaabz.com/jobs/285593-principal-vulnerability-researcher-cleared) |
+| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-16 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
+| Product Analyst | air apps | NETHERLANDS | 2026-10-16 08:48 UTC | relocation | [Apply](https://jaabz.com/jobs/273777-product-analyst) |
+| Senior Product Manager (AI & Logistics) | shypple | NETHERLANDS | 2026-10-16 08:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285575-senior-product-manager) |
+| Senior Product Manager, Search and Ranking | Catawiki | NETHERLANDS | 2026-10-16 07:56 UTC | relocation | [Apply](https://jaabz.com/jobs/285567-senior-product-manager-search-ranking) |
+| Senior Product Designer (AI-Powered Resource Planner) | air apps | SPAIN | 2026-10-16 07:53 UTC | relocation | [Apply](https://jaabz.com/jobs/273770-product-designer) |
+| Senior Machine Learning Engineer (ML/AI Engineering) | build+ | GREATER TOKYO AREA | 2026-10-16 06:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285545-senior-machine-learning-engineer-fde) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
