@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-16 12:00** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-17 11:16** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Monetization Specialist | air apps | GREATER ROME METROPOLITAN AREA | 2026-10-16 11:52 UTC | relocation | [Apply](https://jaabz.com/jobs/285544-product-growth-specialist) |
-| Senior Gameplay Programmer - AAA Title | welevel | GERMANY | 2026-10-16 11:51 UTC | relocation | [Apply](https://jaabz.com/jobs/244530-senior-unreal-developer-mfd) |
-| Junior Mobile Platform AI Developer | Tech Consulting | United State | 2026-10-16 11:33 UTC | relocation | [Apply](https://jaabz.com/jobs/285666-mobile-application-developer) |
-| Senior Backend Software Engineer (Node.js & TypeScript) | appnation | TüRKIYE | 2026-10-16 11:16 UTC | relocation | [Apply](https://jaabz.com/jobs/285642-senior-software-engineer-backend) |
-| Senior C++ / Rust Developer (High-Load Systems) | metaquotes ltd. | CYPRUS | 2026-10-16 11:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285645-senior-c-rust-developer-for-high-load-systems) |
-| Backend Software Engineer (AI-Powered Mobile Apps) | appnation | TüRKIYE | 2026-10-16 11:06 UTC | relocation | [Apply](https://jaabz.com/jobs/285653-software-engineer-backend) |
-| Game Director, WHAT THE CAR? | triband | DENMARK | 2026-10-16 10:39 UTC | relocation | [Apply](https://jaabz.com/jobs/285630-game-director) |
-| Lead Software Engineer (C#/.NET) | NEXT Ventures | STUTTGART REGION | 2026-10-16 10:36 UTC | relocation | [Apply](https://jaabz.com/jobs/285629-lead-software-engineer-mfd-a-cnet-up-to-a110000-package-relocation-support) |
-| Principal Researcher (Full Technical Staff) – Cybersecurity & Reverse Engineering | Rogue Talent | GREATER BOSTON | 2026-10-16 09:21 UTC | relocation | [Apply](https://jaabz.com/jobs/285593-principal-vulnerability-researcher-cleared) |
-| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-16 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
-| Product Analyst | air apps | NETHERLANDS | 2026-10-16 08:48 UTC | relocation | [Apply](https://jaabz.com/jobs/273777-product-analyst) |
-| Senior Product Manager (AI & Logistics) | shypple | NETHERLANDS | 2026-10-16 08:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285575-senior-product-manager) |
-| Senior Product Manager, Search and Ranking | Catawiki | NETHERLANDS | 2026-10-16 07:56 UTC | relocation | [Apply](https://jaabz.com/jobs/285567-senior-product-manager-search-ranking) |
-| Senior Product Designer (AI-Powered Resource Planner) | air apps | SPAIN | 2026-10-16 07:53 UTC | relocation | [Apply](https://jaabz.com/jobs/273770-product-designer) |
-| Senior Machine Learning Engineer (ML/AI Engineering) | build+ | GREATER TOKYO AREA | 2026-10-16 06:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285545-senior-machine-learning-engineer-fde) |
+| Senior Geotechnical Engineer (Relocation to Northeast Nevada) | Jobot | United States | 2026-10-17 10:09 UTC | relocation | [Apply](https://jaabz.com/jobs/267091-geotechnical-engineer) |
+| Software Developer Training Program (Entry-Level Cohort) | genesis10 | United State | 2026-10-17 09:42 UTC | relocation | [Apply](https://jaabz.com/jobs/286140-entry-level-software-developer) |
+| Platform Engineer (Internal Developer Platform) | hennge | JAPAN | 2026-10-17 08:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278021-platform-engineer-infrastructurekubernetes-aws-hennge-platform-team) |
+| Project Coordinator (AI & Product Operations) | air apps | GREATER MADRID METROPOLITAN AREA | 2026-10-17 07:28 UTC | relocation | [Apply](https://jaabz.com/jobs/285702-project-coordinator) |
+| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-17 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
+| Senior Security Engineer & Founding Security Lead (AI Agents) | artificial intelligence underwriting company (aiuc) | United State | 2026-10-17 05:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286102-founding-security-engineer) |
+| Senior Welding Engineer & Team Lead (Aerospace/Defense Manufacturing) | hadrian | United State | 2026-10-17 05:52 UTC | relocation | [Apply](https://jaabz.com/jobs/286103-weld-engineering-manager-development) |
+| AI Image Specialist | Puffy | PORTUGAL | 2026-10-17 05:50 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
+| IT Support Specialist (Mac & Enterprise Systems) | gray swan | United State | 2026-10-17 04:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286088-it-operations-specialist) |
+| Senior Graphic Designer & Illustrator (Children’s Books) – On-site in China | 1000 miles limited | BELARUS | 2026-10-17 02:59 UTC | relocation | [Apply](https://jaabz.com/jobs/286074-graphic-designer) |
+| Senior IT Infrastructure & Cloud Engineer (Bermuda) | independent consulting solutions ltd | BERMUDA | 2026-10-17 01:10 UTC | relocation | [Apply](https://jaabz.com/jobs/285991-it-professionals) |
+| Senior Software System Engineer (Flight Software Certification & Verification) - Nyx Program | The Exploration Company | GERMANY | 2026-10-17 00:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286003-senior-software-system-engineer) |
+| Senior MLOps Engineer | fundamental | ISRAEL | 2026-10-16 23:57 UTC | relocation | [Apply](https://jaabz.com/jobs/286042-mlops-engineer) |
+| Senior Solutions Architect (AI/ML Enterprise Deployment) | fundamental | JAPAN | 2026-10-16 23:55 UTC | relocation | [Apply](https://jaabz.com/jobs/286044-solutions-architect) |
+| Reinforcement Learning Researcher (Offline RL) - Robotics | envision recruitment | SAN FRANCISCO BAY AREA | 2026-10-16 23:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286036-reinforcement-learning-researcher) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
