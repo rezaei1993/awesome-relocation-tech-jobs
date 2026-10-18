@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-17 11:16** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-18 11:53** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Geotechnical Engineer (Relocation to Northeast Nevada) | Jobot | United States | 2026-10-17 10:09 UTC | relocation | [Apply](https://jaabz.com/jobs/267091-geotechnical-engineer) |
-| Software Developer Training Program (Entry-Level Cohort) | genesis10 | United State | 2026-10-17 09:42 UTC | relocation | [Apply](https://jaabz.com/jobs/286140-entry-level-software-developer) |
-| Platform Engineer (Internal Developer Platform) | hennge | JAPAN | 2026-10-17 08:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278021-platform-engineer-infrastructurekubernetes-aws-hennge-platform-team) |
-| Project Coordinator (AI & Product Operations) | air apps | GREATER MADRID METROPOLITAN AREA | 2026-10-17 07:28 UTC | relocation | [Apply](https://jaabz.com/jobs/285702-project-coordinator) |
-| Senior Conversion Rate Optimization (CRO) Manager | Puffy | APAC | 2026-10-17 06:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285535-senior-cro-manager-on-site-in-dubai) |
-| Senior Security Engineer & Founding Security Lead (AI Agents) | artificial intelligence underwriting company (aiuc) | United State | 2026-10-17 05:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286102-founding-security-engineer) |
-| Senior Welding Engineer & Team Lead (Aerospace/Defense Manufacturing) | hadrian | United State | 2026-10-17 05:52 UTC | relocation | [Apply](https://jaabz.com/jobs/286103-weld-engineering-manager-development) |
-| AI Image Specialist | Puffy | PORTUGAL | 2026-10-17 05:50 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
-| IT Support Specialist (Mac & Enterprise Systems) | gray swan | United State | 2026-10-17 04:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286088-it-operations-specialist) |
-| Senior Graphic Designer & Illustrator (Children’s Books) – On-site in China | 1000 miles limited | BELARUS | 2026-10-17 02:59 UTC | relocation | [Apply](https://jaabz.com/jobs/286074-graphic-designer) |
-| Senior IT Infrastructure & Cloud Engineer (Bermuda) | independent consulting solutions ltd | BERMUDA | 2026-10-17 01:10 UTC | relocation | [Apply](https://jaabz.com/jobs/285991-it-professionals) |
-| Senior Software System Engineer (Flight Software Certification & Verification) - Nyx Program | The Exploration Company | GERMANY | 2026-10-17 00:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286003-senior-software-system-engineer) |
-| Senior MLOps Engineer | fundamental | ISRAEL | 2026-10-16 23:57 UTC | relocation | [Apply](https://jaabz.com/jobs/286042-mlops-engineer) |
-| Senior Solutions Architect (AI/ML Enterprise Deployment) | fundamental | JAPAN | 2026-10-16 23:55 UTC | relocation | [Apply](https://jaabz.com/jobs/286044-solutions-architect) |
-| Reinforcement Learning Researcher (Offline RL) - Robotics | envision recruitment | SAN FRANCISCO BAY AREA | 2026-10-16 23:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286036-reinforcement-learning-researcher) |
+| Senior Manager, Retention & CRM Marketing | huckberry | United State | 2026-10-18 11:25 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/286594-sr-manager-retention-crm) |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-10-18 10:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286580-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Senior Member of Research Staff, Optimization | The Voleon Group | United States | 2026-10-18 09:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/272288-senior-member-of-research-staff-optimization) |
+| Manager, CRM & Lifecycle Marketing | hibbett | ALABAMA AREA | 2026-10-18 08:32 UTC | relocation | [Apply](https://jaabz.com/jobs/286543-manager-crm-lifecycle-marketing) |
+| Senior Product Manager - Visitor Management Platform | envoy | United States | 2026-10-18 01:02 UTC | relocation | [Apply](https://jaabz.com/jobs/274510-product-lead-visitors) |
+| Senior Technical Recruiter & Hiring Operations Lead | dialogue ai | United State | 2026-10-18 00:12 UTC | relocation | [Apply](https://jaabz.com/jobs/286464-founding-technical-recruiter) |
+| Senior Residential Architect & Design Team Lead | juniper | United State | 2026-10-17 23:23 UTC | relocation | [Apply](https://jaabz.com/jobs/286458-architectural-design-manager) |
+| Mobile Application Developer Intern | extramus.eu | ITALY | 2026-10-17 21:14 UTC | relocation | [Apply](https://jaabz.com/jobs/243823-application-development) |
+| Senior Data Quality & Provenance Scientist (AI Platform) | wayve | GERMANY | 2026-10-17 21:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286415-data-scientist-data-quality-provenance) |
+| Integration Engineer (Autonomous Driving) - Germany Market Localization | wayve | GERMANY | 2026-10-17 20:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286418-customer-integration-engineer-app-sw) |
+| Staff Site Reliability Engineer â AI Platform | Manychat | NETHERLANDS | 2026-10-17 20:55 UTC | relocation | [Apply](https://jaabz.com/jobs/270465-staff-site-reliability-engineer-a-ai-platform) |
+| Senior Backend Engineer (AI Creation Workflows & Collaboration Systems) | higgsfield ai | KAZAKHSTAN | 2026-10-17 20:41 UTC | relocation | [Apply](https://jaabz.com/jobs/286407-backend-software-engineer-product) |
+| Senior Data Platform Engineer (Data Quality & Provenance) | wayve | GERMANY | 2026-10-17 20:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286409-data-engineer-data-quality-provenance) |
+| Senior Cyber Security Engineer (Automotive AI Compliance) - Germany | wayve | GERMANY | 2026-10-17 20:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286408-cyber-security-engineer) |
+| Senior Customer Program Manager (Autonomous Driving Technology) - Germany | wayve | GERMANY | 2026-10-17 20:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/286406-customer-program-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
