@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-20 12:24** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-21 12:35** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior C++ Performance Engineer (AgileCore Runtime Core) | agile robots se | GREATER MUNICH METROPOLITAN AREA | 2026-10-20 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287821-senior-c-performance-engineer-all-genders) |
-| Senior Full-Stack Geospatial Data Engineer (AI Driving Platforms) | wayve | UNITED KINGDOM | 2026-10-20 12:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287823-software-engineer-map-route) |
-| Senior VMware Infrastructure Engineer (Cloud Hosting Solutions) | synmatch ai | BELGIUM | 2026-10-20 11:25 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/274093-vmware-infrastructure-engineer) |
-| AWS Java Developer (Hybrid - Kaufering, Munich) | UST | SPAIN | 2026-10-20 11:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/82730-aws-java-developer-hybrid-kaufering-munich) |
-| Oracle EBS HRMS Techno-Functional Consultant (R12.2.X) - Doha, Qatar | nebras energy | QATAR | 2026-10-20 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287799-application-developer) |
-| Senior Avionics Systems Engineer (Flight Computer Systems) – Spacecraft Development | The Exploration Company | GERMANY | 2026-10-20 10:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287795-avionics-system-engineer-flight-computer-system) |
-| Senior DevOps Engineer (CI/CD, Infrastructure Automation & DevOps Adoption) | Trust In SODA | NETHERLANDS | 2026-10-20 10:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287786-devops-engineer) |
-| Full-Stack Developer (Backend Focus) | check24 | GERMANY | 2026-10-20 09:43 UTC | relocation | [Apply](https://jaabz.com/jobs/280507-full-stackaentwickler-mwdaa-fokusabackend-explorer) |
-| Permanent Site Resident Engineer (Construction & Engineering) | Jobot | United State | 2026-10-20 08:43 UTC | relocation | [Apply](https://jaabz.com/jobs/287748-site-resident-engineer) |
-| AI Engineer (LLM & RAG Systems) - Legal Domain | CLUTCH | ITALY | 2026-10-20 08:41 UTC | relocation | [Apply](https://jaabz.com/jobs/287750-senior-ai-engineer-scaleup-ai) |
-| Senior Localisation Engineer (Unity & C#) - Arabic-First Localization Pipeline | Discovered MENA | SAUDI ARABIA | 2026-10-20 08:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287745-localization-engineer) |
-| Startup Program Manager | Tahaluf | SAUDI ARABIA | 2026-10-20 08:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283634-startup-program-manager) |
-| Lead/Staff Data Engineer (AI/ML Platforms & Data Pipelines) | Recruitis | THAILAND | 2026-10-20 07:09 UTC | relocation | [Apply](https://jaabz.com/jobs/287726-staff-principal-data-engineer-bangkok-based-relocation-included) |
-| Senior AWS Cloud Network Engineer (Quantitative Investment Management) / Hong Kong | tribus | HONG KONG SAR | 2026-10-20 04:54 UTC | relocation | [Apply](https://jaabz.com/jobs/287699-aws-cloud-network-engineer) |
-| Senior Flutter Engineer (Fintech) - Kuala Lumpur, Malaysia | kitalabs | MALAYSIA | 2026-10-20 04:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287700-flutter-engineer) |
+| Senior Marketing Analyst - CRM | tabby / تابي | PORTUGAL | 2026-10-21 12:35 UTC | relocation | [Apply](https://jaabz.com/jobs/288573-senior-marketing-analyst) |
+| Associate Data Scientist - Operations Research | wheely | CYPRUS | 2026-10-21 12:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288575-associate-data-scientist-operations-research) |
+| Senior AI & Automation Engineer | pammys | GERMANY | 2026-10-21 12:19 UTC | relocation | [Apply](https://jaabz.com/jobs/288564-senior-ai-automation-engineer-mwd) |
+| Mid/Senior Backend Engineer (Mapping & Spatial Intelligence) - Go | wheely | UNITED KINGDOM | 2026-10-21 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281818-backend-engineer-midsenior-maps) |
+| Senior Python Backend Developer | GoReel | POLAND | 2026-10-21 12:14 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/288560-senior-python-developer) |
+| Product Manager | wheely | CYPRUS | 2026-10-21 11:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288551-product-manager-ux) |
+| Product Manager | wheely | CYPRUS | 2026-10-21 11:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288552-product-manager-technical) |
+| Infrastructure Engineer | wheely | CYPRUS | 2026-10-21 11:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/225259-site-reliability-engineer) |
+| Senior Frontend Engineer | italenters | SPAIN | 2026-10-21 11:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288531-senior-frontend-engineer) |
+| Senior Data Lead | plasma | UNITED KINGDOM | 2026-10-21 11:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288535-data-engineering-lead) |
+| Product Marketing Manager | ivo | United State | 2026-10-21 11:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288521-product-marketing-manager) |
+| Senior AI/ML Engineer | zenos, inc. | United State | 2026-10-21 11:33 UTC | relocation | [Apply](https://jaabz.com/jobs/288523-machine-learning-engineer) |
+| Cybersecurity DLP Engineer | gft technologies españa | SPAIN | 2026-10-21 11:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288525-cybersecurity-dlp-engineer-devops) |
+| Senior Game UI/UX Designer (Mobile, Unity) | hyperhug | CYPRUS | 2026-10-21 11:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/258456-senior-uiux-designer) |
+| Senior Full-Stack Engineer (React/React Native) – Product & Client-Side Development | plasma | UNITED KINGDOM | 2026-10-21 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267321-mid-level-to-senior-software-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
