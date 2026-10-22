@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-21 12:35** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-22 12:38** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Marketing Analyst - CRM | tabby / تابي | PORTUGAL | 2026-10-21 12:35 UTC | relocation | [Apply](https://jaabz.com/jobs/288573-senior-marketing-analyst) |
-| Associate Data Scientist - Operations Research | wheely | CYPRUS | 2026-10-21 12:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288575-associate-data-scientist-operations-research) |
-| Senior AI & Automation Engineer | pammys | GERMANY | 2026-10-21 12:19 UTC | relocation | [Apply](https://jaabz.com/jobs/288564-senior-ai-automation-engineer-mwd) |
-| Mid/Senior Backend Engineer (Mapping & Spatial Intelligence) - Go | wheely | UNITED KINGDOM | 2026-10-21 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/281818-backend-engineer-midsenior-maps) |
-| Senior Python Backend Developer | GoReel | POLAND | 2026-10-21 12:14 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/288560-senior-python-developer) |
-| Product Manager | wheely | CYPRUS | 2026-10-21 11:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288551-product-manager-ux) |
-| Product Manager | wheely | CYPRUS | 2026-10-21 11:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288552-product-manager-technical) |
-| Infrastructure Engineer | wheely | CYPRUS | 2026-10-21 11:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/225259-site-reliability-engineer) |
-| Senior Frontend Engineer | italenters | SPAIN | 2026-10-21 11:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288531-senior-frontend-engineer) |
-| Senior Data Lead | plasma | UNITED KINGDOM | 2026-10-21 11:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288535-data-engineering-lead) |
-| Product Marketing Manager | ivo | United State | 2026-10-21 11:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288521-product-marketing-manager) |
-| Senior AI/ML Engineer | zenos, inc. | United State | 2026-10-21 11:33 UTC | relocation | [Apply](https://jaabz.com/jobs/288523-machine-learning-engineer) |
-| Cybersecurity DLP Engineer | gft technologies españa | SPAIN | 2026-10-21 11:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288525-cybersecurity-dlp-engineer-devops) |
-| Senior Game UI/UX Designer (Mobile, Unity) | hyperhug | CYPRUS | 2026-10-21 11:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/258456-senior-uiux-designer) |
-| Senior Full-Stack Engineer (React/React Native) – Product & Client-Side Development | plasma | UNITED KINGDOM | 2026-10-21 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267321-mid-level-to-senior-software-engineer) |
+| Senior Mechanical Engineering Manager – Medical Device & Pharma Automation | Sterling Engineering | United State | 2026-10-22 12:25 UTC | relocation | [Apply](https://jaabz.com/jobs/289158-engineering-manager) |
+| Senior DSP Engineer - Wireless Communications & Test & Measurement | yoh, a day & zimmermann company | UNITED KINGDOM | 2026-10-22 12:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289157-senior-dsp-engineer) |
+| Junior Data Engineer (Cloud & AI) - Tokyo, Japan | Superstars | JAPAN | 2026-10-22 12:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289141-d-junior-data-engineer-d-ayen5maayen7m-yearly-ai-relocation-support-visa-sponsorship-d-tokyo-japan-hybrid) |
+| Senior Data Engineer | Superstars | JAPAN | 2026-10-22 12:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/264800-d-senior-data-engineer-a-data-ai-d-ayen7maayen12m-d-tokyo-d-hybrid-ai-visa-sponsorship-relocation-support) |
+| LLM Engineer | Superstars | JAPAN | 2026-10-22 12:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/261318-d-llm-engineer-d-salary-jpayen6ma10m-visa-sponsorship-relocation-supportdtokyo-japan) |
+| Senior AI & Machine Learning Product Owner (Generative AI & Enterprise Transformation) | Edison Smart® | UNITED ARAB EMIRATES | 2026-10-22 12:01 UTC | relocation | [Apply](https://jaabz.com/jobs/289133-senior-technical-product-owner-a-ai-machine-learning) |
+| Senior Product Manager (HealthTech AI-Driven Products) | elixi | EMEA | 2026-10-22 12:00 UTC | relocation | [Apply](https://jaabz.com/jobs/289134-product-owner) |
+| Senior Technical Designer (Unreal Engine) – Social & Live-Service Systems | pixel movement | EUROPEAN UNION | 2026-10-22 11:32 UTC | relocation | [Apply](https://jaabz.com/jobs/289127-senior-technical-designer) |
+| Backend Engineer (AI) | atlys | United States | 2026-10-22 11:31 UTC | relocation | [Apply](https://jaabz.com/jobs/277910-backend-engineer-ai) |
+| Product Designer, Grow & Engage Domain | n26 | SPAIN | 2026-10-22 10:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/248945-product-designer-grow-engage) |
+| IT Associate – IT/OT Systems Integration & Technical Support (Presencial) | cummins latin america | MEXICO | 2026-10-22 10:31 UTC | relocation | [Apply](https://jaabz.com/jobs/289109-asociado-de-it) |
+| Senior Marketing Engineer – AI & Growth Automation (Multi-LLM Platform) | Set2Recruit | EUROPEAN UNION | 2026-10-22 09:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289090-marketing-engineer) |
+| Senior iOS Developer | axel springer tech gmbh | GERMANY | 2026-10-22 09:41 UTC | relocation | [Apply](https://jaabz.com/jobs/264438-senior-ios-developer-mfd-welt-news-apps) |
+| Senior Backend Engineer (Java/Spring Boot/Kafka) - Berlin | Xcede | GERMANY | 2026-10-22 09:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289085-senior-backend-engineer-java-springboot-kafka-kubernetes-berlin-up-to-a120k-equity) |
+| Senior UX/UI Designer & Front-End Engineer (AI Agent Platform) | Set2Recruit | EUROPEAN UNION | 2026-10-22 09:32 UTC | relocation | [Apply](https://jaabz.com/jobs/289077-senior-frontend-developer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
