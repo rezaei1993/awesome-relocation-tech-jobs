@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-10-29 13:50** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-10-30 13:43** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Backend Engineer (AI Voice Infrastructure) | alexander chapman | SAN FRANCISCO BAY AREA | 2026-10-29 13:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292507-founding-engineer) |
-| Japanese-Speaking Technical Support Specialist (24/7 Helpdesk) | tp | EUROPEAN UNION | 2026-10-29 12:51 UTC | relocation | [Apply](https://jaabz.com/jobs/292495-japanese-speaking-customer-experts-for-cloud-platform-relocation-package-to-greece) |
-| Manager, Customer Success Operations (AI-Native MDR) | tenex.ai | United State | 2026-10-29 12:32 UTC | relocation | [Apply](https://jaabz.com/jobs/292490-manager-customer-success-operations) |
-| Founding Firmware Engineer (Gut Health Wearable) | suna | United State | 2026-10-29 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292488-founding-firmware-engineer) |
-| Subscription Growth Manager (Hardware + SaaS) - PocketPocket | techtree | United State | 2026-10-29 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292480-senior-growth-pm-monetization) |
-| Senior/Lead Quantum Compiler & Instruction Set Architecture (ISA) Engineer | planqc | GERMANY | 2026-10-29 11:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292456-quantum-compiler-engineer) |
-| Senior Backend Golang Engineer | Miratech | UKRAINE | 2026-10-29 10:36 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/272240-senior-backend-golang-engineer) |
-| Creator Relations Specialist (San Francisco, Onsite) | air apps | GREATER ROME METROPOLITAN AREA | 2026-10-29 09:55 UTC | relocation | [Apply](https://jaabz.com/jobs/292421-creator-relations) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-10-29 09:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-29 09:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-29 09:21 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Civil/Geotechnical Engineer (Technical Leadership) – Northern Minnesota | Jobot | United State | 2026-10-29 09:21 UTC | relocation | [Apply](https://jaabz.com/jobs/290085-sr-geotechnical-engineer-relocation-offered) |
-| Project Engineer (Geotechnical & Construction Materials Testing) – Northern Minnesota | Jobot | United State | 2026-10-29 09:21 UTC | relocation | [Apply](https://jaabz.com/jobs/290084-project-engineer-geotechnical-relocation-offered) |
-| Senior Test Manager (m/f/d) – Quantum Technology & Medical Imaging R&D | nvision quantum technologies | GERMANY | 2026-10-29 08:51 UTC | relocation | [Apply](https://jaabz.com/jobs/292407-test-manager-mfd) |
-| Analytics Engineer | Ramsey Solutions | United States | 2026-10-29 08:50 UTC | relocation | [Apply](https://jaabz.com/jobs/228652-analytics-engineer) |
+| IT Systems & Network Engineer (Airbus Projects) | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 13:30 UTC | relocation | [Apply](https://jaabz.com/jobs/276937-it-systems-network-engineer-a-germany-airbus-projects) |
+| C++ Engineer for Simulation & Test Support Software | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 13:13 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/263729-software-developer-c-a-germany-airbus-projects) |
+| Network Engineer – Datacenter Connectivity | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 12:44 UTC | relocation | [Apply](https://jaabz.com/jobs/277065-network-engineer-datacenter-connectivity-a-germany-airbus-projects) |
+| Senior Embedded Software Engineer (C/C++) – Safety-Critical Systems (Germany) | orbital critical systems (grupo caf) | GERMANY | 2026-10-30 12:44 UTC | relocation | [Apply](https://jaabz.com/jobs/291031-embedded-software-engineer-a-germany-airbus) |
+| Junior Full Stack AI Developer (React Native) - Enterprise Mobile Applications | Tech Consulting | United State | 2026-10-30 12:31 UTC | relocation | [Apply](https://jaabz.com/jobs/293052-junior-full-stack-ai-developer-react-native) |
+| Junior Mobile Developer (React Native / Android) – Full-Time W2 with Relocation Support | Tech Consulting | United State | 2026-10-30 12:30 UTC | relocation | [Apply](https://jaabz.com/jobs/293050-ai-developer-react-native-android) |
+| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-10-30 12:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior Product Manager, B2B & Enterprise | higgsfield ai | KAZAKHSTAN | 2026-10-30 12:29 UTC | relocation | [Apply](https://jaabz.com/jobs/276343-product-manager-b2b-enterprise) |
+| Entry-Level Junior Cloud Engineer (Multi-Cloud, Atlanta-Based with National Travel) | Tech Consulting | United State | 2026-10-30 12:29 UTC | relocation | [Apply](https://jaabz.com/jobs/290869-junior-cloud-engineer) |
+| Entry-Level DevOps Engineer (Cloud & Infrastructure) | Tech Consulting | United State | 2026-10-30 12:18 UTC | relocation | [Apply](https://jaabz.com/jobs/293041-devops-engineer) |
+| Senior Product Manager (Relocation Required) - Consumer Tech & Retail Product Ownership | vireo | VIETNAM | 2026-10-30 12:17 UTC | relocation | [Apply](https://jaabz.com/jobs/293044-senior-product-manager-relocation-required-90-120k) |
+| Senior Cloud Network Engineer (AWS) | hfm | GREECE | 2026-10-30 12:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293042-cloud-network-engineer) |
+| Senior Frontend Engineer (UI/UX Design & Development) | garage | United State | 2026-10-30 11:50 UTC | relocation | [Apply](https://jaabz.com/jobs/293037-founding-design-engineer) |
+| Content Associate, Data | clarity (formerly hiive) | CANADA | 2026-10-30 10:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/280562-content-associate-data) |
+| Quantitative Researcher – High Frequency Trading (HFT) | Code Compass 🧭 | SWITZERLAND | 2026-10-30 10:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/285216-quantitative-researcher) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
