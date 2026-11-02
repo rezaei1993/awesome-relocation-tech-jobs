@@ -41,25 +41,11 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-01 13:55** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-02 16:41** · showing **0** of 0 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| AIT Propulsion Engineer (Spacecraft Propulsion Systems) | The Exploration Company | GERMANY | 2026-11-01 13:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292375-ait-propulsion-engineer) |
-| Machine Learning Engineer | loka, inc | SERBIA | 2026-11-01 12:39 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/293925-machine-learning-engineer) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-01 10:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-01 10:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Product Engineer (Python / Go) - Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-01 10:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293892-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Database Administrator (DBA) - AI-Powered Platform | air apps | GERMANY | 2026-11-01 08:40 UTC | relocation | [Apply](https://jaabz.com/jobs/268364-database-administrator-dba) |
-| Senior C++ Software Engineer - Low-Latency Trading Systems | BAH Partners | CHINA | 2026-11-01 08:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/289605-c-developers-wanted-in-shanghai-and-hong-kong-relocation-provided-global-proprietary-trading-firm-non-finance-welcome-to-apply) |
-| Principal, Value Orchestration Engineering | Teragonia | CANADA | 2026-11-01 08:11 UTC | relocation | [Apply](https://jaabz.com/jobs/293769-analytics-engineering-principal-toronto) |
-| Senior Technical Recruiter - Humanoid Robotics | persona ai | United States | 2026-11-01 08:10 UTC | relocation | [Apply](https://jaabz.com/jobs/293782-senior-technical-recruiter-humanoid-robotics-engineering) |
-| Platform Security Engineer | Doctolib | FRANCE | 2026-11-01 08:06 UTC | relocation | [Apply](https://jaabz.com/jobs/293795-platform-security-engineer-xfm) |
-| Integration and Test Engineer | coretech security | UNITED KINGDOM | 2026-11-01 08:04 UTC | relocation | [Apply](https://jaabz.com/jobs/293802-integration-and-test-engineer) |
-| Senior Counsel (Commercial) | olix | UNITED KINGDOM | 2026-11-01 08:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/293810-senior-counsel-commercial) |
-| Head of Product Compliance & Quality | Orbem | GERMANY | 2026-11-01 08:00 UTC | relocation | [Apply](https://jaabz.com/jobs/293811-head-of-product-compliance-fmd) |
-| Expert Site Reliability Engineer | Orbem | GERMANY | 2026-11-01 07:59 UTC | relocation | [Apply](https://jaabz.com/jobs/293812-expert-site-reliability-engineer-edge-infrastructure-fmd) |
-| Senior Platform & Infrastructure Engineer | true-talent-solutions-partners | United States | 2026-11-01 07:49 UTC | relocation | [Apply](https://jaabz.com/jobs/293872-lead-platform-engineer) |
+| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz](https://jaabz.com) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
