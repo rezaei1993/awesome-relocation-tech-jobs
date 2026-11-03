@@ -41,11 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-02 16:41** · showing **0** of 0 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-03 14:46** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| _No matching jobs in today's digest_ | — | — | — | — | [Jaabz](https://jaabz.com) |
+| Principal Product Security Architect | Stott and May | FRANCE | 2026-11-03 14:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295891-principal-product-security-architect-common-criteria-sesip-psa-certified-fips-140-3-iso-21434-eu-cra) |
+| VLA/WAM Research Engineer | flexion | SWITZERLAND | 2026-11-03 14:38 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295897-vlawam-research-engineer) |
+| Android and iOS Developer | talenthop | United States | 2026-11-03 14:37 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/295898-android-and-ios-developer) |
+| Android and/or iOS Mobile Developer | talenthop | United States | 2026-11-03 14:32 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/295899-android-andor-ios-mobile-developer) |
+| Platform Engineer | Catawiki | NETHERLANDS | 2026-11-03 14:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295836-platform-engineer) |
+| Software Engineer (Java/J2EE) with TS/SCI CI Polygraph | MaxIT Consulting - Max Corporate Group | United States | 2026-11-03 13:49 UTC | relocation | [Apply](https://jaabz.com/jobs/295823-software-engineer-tssci-ci-poly-required-javaj2ee) |
+| Cleared Java Developer / Software Engineer | MaxIT Consulting - Max Corporate Group | United States | 2026-11-03 13:48 UTC | relocation | [Apply](https://jaabz.com/jobs/295824-cleared-java-developer-software-engineer) |
+| High-Frequency Quant Developer - Low-Latency Core Systems | FORTE ICT | CHINA | 2026-11-03 13:47 UTC | relocation | [Apply](https://jaabz.com/jobs/295647-low-latency-core-systems-developer-us-global-equities-1-15-million-basic-salary-plus-lucarative-sign-on-bonus-and-benefits) |
+| Quantum Success Engineer | connect-ai | NETHERLANDS | 2026-11-03 13:46 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295652-quantum-success-engineer) |
+| Operational Technology (OT) Cybersecurity Specialist | European Investment Bank (EIB) | LUXEMBOURG | 2026-11-03 13:44 UTC | relocation | [Apply](https://jaabz.com/jobs/295654-operational-technology-ot-cybersecurity-specialist-based-in-luxembourg) |
+| HR Generalist | Richemont | UNITED KINGDOM | 2026-11-03 13:02 UTC | relocation | [Apply](https://jaabz.com/jobs/295819-hr-advisor) |
+| French-speaking Campaigns Manager, EMEA | Rippling | FRANCE | 2026-11-03 12:55 UTC | relocation | [Apply](https://jaabz.com/jobs/125797-marketing-campaign-manager-french-speaking) |
+| Full-Stack Developer (Backend Focus) | check24 | GERMANY | 2026-11-03 12:42 UTC | relocation | [Apply](https://jaabz.com/jobs/280507-full-stackaentwickler-mwdaa-fokusabackend-explorer) |
+| Staff Backend Engineer (L60) | monzo | UNITED KINGDOM | 2026-11-03 12:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295760-staff-backend-engineer) |
+| Angular Developer | coisas do brazil llc | United States | 2026-11-03 11:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/295746-angular-developer-cpim-1295) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
