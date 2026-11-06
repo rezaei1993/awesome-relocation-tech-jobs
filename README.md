@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-05 15:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-06 14:42** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Visual Designer | Bending Spoons | ITALY | 2026-11-05 14:56 UTC | relocation | [Apply](https://jaabz.com/jobs/276500-graduate-visual-motion-designer) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-05 14:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-05 14:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-05 14:49 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Technical Project Manager (Remote) | loka, inc | SERBIA | 2026-11-05 14:34 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/297821-senior-technical-project-manager) |
-| Graduate ML Software Engineer (C++/Machine Learning) - Galway, Ireland | Arm | IRELAND | 2026-11-05 13:55 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297819-graduate-ml-software-engineer) |
-| VLA/WAM Integration and Deployment Specialist | flexion | SWITZERLAND | 2026-11-05 13:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297802-vlawam-integration-deployment-engineer) |
-| Senior Product Manager (E-Commerce) - GOG | gog | POLAND | 2026-11-05 13:36 UTC | relocation | [Apply](https://jaabz.com/jobs/297806-senior-product-manager) |
-| IT Systems & Network Engineer (Airbus Projects) | orbital critical systems (grupo caf) | GERMANY | 2026-11-05 13:30 UTC | relocation | [Apply](https://jaabz.com/jobs/276937-it-systems-network-engineer-a-germany-airbus-projects) |
-| Systems Technical Writer | Helsing | GERMANY | 2026-11-05 13:30 UTC | relocation | [Apply](https://jaabz.com/jobs/280089-systems-technical-writer) |
-| Business Strategy Associate - Lending | n26 | GERMANY | 2026-11-05 12:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297745-business-strategy-associate-lending) |
-| Technical Sourcer | ladders | United States | 2026-11-05 12:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297755-technical-sourcer) |
-| People Operations Generalist | ladders | United States | 2026-11-05 12:18 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297756-people-operations-generalist) |
-| Head of Engineering | cgs | United States | 2026-11-05 12:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297752-head-of-engineering) |
-| Python Developer - Quantitative Trading Platforms | BAH Partners | CHINA | 2026-11-05 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/297728-python-developers-tier-one-quant-trading-firms-hong-kong-shanghai) |
+| Data Engineer | family dollar | United States | 2026-11-06 14:31 UTC | relocation | [Apply](https://jaabz.com/jobs/298644-data-engineer) |
+| Senior Business and System Analyst | FxPro | CYPRUS | 2026-11-06 14:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298670-senior-business-analyst-senior-system-analyst-positions) |
+| Treasury Analyst | Manychat | SPAIN | 2026-11-06 14:17 UTC | relocation | [Apply](https://jaabz.com/jobs/298693-treasury-analyst) |
+| Site Reliability Engineer | onebrief | GERMANY | 2026-11-06 14:13 UTC | relocation | [Apply](https://jaabz.com/jobs/298692-staff-site-reliability-engineer-wiesbaden-germany-relocation-provided) |
+| Chief Scientific Officer (CSO) | antiverse | UNITED KINGDOM | 2026-11-06 14:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298684-chief-scientific-officer) |
+| Senior Recruiter – Tech and Commercial Hiring | Joom | PORTUGAL | 2026-11-06 14:05 UTC | relocation | [Apply](https://jaabz.com/jobs/279205-senior-recruiter) |
+| Brand Partnerships Manager | Ramp | United States | 2026-11-06 13:59 UTC | relocation | [Apply](https://jaabz.com/jobs/298672-brand-partnerships-manager) |
+| PLC & Automation Programmer | aetherion technology | ALBANIA | 2026-11-06 13:58 UTC | relocation | [Apply](https://jaabz.com/jobs/298663-plc-automation-programmer) |
+| Software Technical Support Engineer | arx robotics | GERMANY | 2026-11-06 13:47 UTC | relocation | [Apply](https://jaabz.com/jobs/298641-software-technical-support-engineer-mfd) |
+| Senior Software Engineer (Critical Engineering APAC) | Optiver | AUSTRALIA | 2026-11-06 13:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298595-senior-software-engineer-a-critical-engineering) |
+| Agent Systems Engineer – AI Model Routing | rnb consultancy | United States | 2026-11-06 12:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/298591-agent-systems-engineer-ai-model-routing-startup) |
+| Community Manager | welevel | GERMANY | 2026-11-06 12:31 UTC | relocation | [Apply](https://jaabz.com/jobs/298572-community-manager-mfd) |
+| Marketing Analyst | talenthop | United States | 2026-11-06 12:18 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/298571-marketing-analyst) |
+| Junior Cybersecurity Analyst | GMV | SPAIN | 2026-11-06 12:11 UTC | relocation | [Apply](https://jaabz.com/jobs/298552-cybersecurity-engineer) |
+| Senior Data Engineer (Microsoft Fabric & Cloud-Native Data Platforms) - Financial Services | lgg advisors | PORTUGAL | 2026-11-06 12:07 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/267165-senior-data-engineer-ms-fabric-experience) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
