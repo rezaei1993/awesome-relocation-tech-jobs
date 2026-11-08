@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-07 13:39** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-08 13:58** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Brand Partnerships Manager | Ramp | United States | 2026-11-07 12:49 UTC | relocation | [Apply](https://jaabz.com/jobs/299398-brand-partnerships-manager) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-07 12:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Agent Engineer | corellia talent | United States | 2026-11-07 12:38 UTC | relocation | [Apply](https://jaabz.com/jobs/299371-agent-engineer) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-07 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-07 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Software Development Engineer (Java) - Budapest, Hungary | tesco business solutions and tesco technology (tesco-bst) | HUNGARY | 2026-11-07 11:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299282-software-development-engineer-ii-myproduct-cost-deals-fuel-and-cost-api) |
-| Avionics Systems Engineer (Flight Computer System) - Spacecraft Development | The Exploration Company | GERMANY | 2026-11-07 11:24 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299293-avionics-system-engineer-flight-computer-system) |
-| Senior QA Engineer (Backend) | Spotware Systems | CYPRUS | 2026-11-07 11:11 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283496-senior-backend-qa-manual-tcp-grpc-websocket) |
-| Deposits Portfolio Analyst | Salmon Group Ltd | KAZAKHSTAN | 2026-11-07 11:08 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/264865-data-analyst-deposits) |
-| Senior Commercial Counsel | retell ai | United States | 2026-11-07 10:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299244-commercial-counsel) |
-| Engineering Manager, Applied AI | Mercor | United States | 2026-11-07 09:34 UTC | relocation | [Apply](https://jaabz.com/jobs/299236-engineering-manager-applied-ai) |
-| Digital Marketing Manager | Tradebyte | GERMANY | 2026-11-07 09:07 UTC | relocation | [Apply](https://jaabz.com/jobs/299229-marketing-automation-manager-all-genders) |
-| Computer Vision Engineer | Helsing | — | 2026-11-07 09:04 UTC | relocation | [Apply](https://jaabz.com/jobs/299225-staff-ai-research-engineer-computer-vision) |
-| Technical Writer, AI Data Infrastructure | hud | SINGAPORE | 2026-11-07 08:53 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/283544-technical-writer) |
-| People Programs Manager | Ramp | United States | 2026-11-07 07:50 UTC | relocation | [Apply](https://jaabz.com/jobs/299202-people-programs-lead) |
+| Software Developer | Epic | United States | 2026-11-08 13:46 UTC | relocation | [Apply](https://jaabz.com/jobs/300017-entry-level-software-developer) |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-11-08 13:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Product Manager IV, Health Systems | Kaiser Permanente | United States | 2026-11-08 13:24 UTC | relocation | [Apply](https://jaabz.com/jobs/300000-product-manager-iv-utilization-management-epic-tapestry-um) |
+| Chief Engineer - Identity & Access Management | Kaiser Permanente | United States | 2026-11-08 13:10 UTC | relocation | [Apply](https://jaabz.com/jobs/299993-it-infrastructure-engineer-vi-pam-greensboro-nc) |
+| Full-Stack Developer Intern | extramus.eu | ITALY | 2026-11-08 13:00 UTC | relocation | [Apply](https://jaabz.com/jobs/244048-full-stack-development) |
+| Senior Forward Deployed Engineer | refractal | UNITED KINGDOM | 2026-11-08 11:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299945-senior-forward-deployed-engineer) |
+| Deposits Portfolio Analyst | Salmon Group Ltd | KAZAKHSTAN | 2026-11-08 11:29 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/264865-data-analyst-deposits) |
+| Senior Mission Engineer (Spacecraft Systems) | iSpace, Inc. | JAPAN | 2026-11-08 11:11 UTC | relocation | [Apply](https://jaabz.com/jobs/299930-senior-mission-engineer) |
+| Director, HR IGS (Global HR Operations & Shared Services) | ingredion incorporated | MEXICO | 2026-11-08 10:03 UTC | relocation | [Apply](https://jaabz.com/jobs/299907-director-hr-igs) |
+| Quality Manager (OCTG Manufacturing) – API 5CT Compliance & Process Improvement | Jobot | United States | 2026-11-08 09:45 UTC | relocation | [Apply](https://jaabz.com/jobs/283998-quality-manager-a-octg-ndt-api-5ct) |
+| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
+| Procurement Manager | fonio | AUSTRIA | 2026-11-08 06:59 UTC | relocation | [Apply](https://jaabz.com/jobs/299845-procurement-manager) |
+| Business Development Representative | zeit-ai | GERMANY | 2026-11-08 06:58 UTC | relocation | [Apply](https://jaabz.com/jobs/299846-senior-business-development-representative-fmd) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
