@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-08 13:58** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-09 16:59** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Software Developer | Epic | United States | 2026-11-08 13:46 UTC | relocation | [Apply](https://jaabz.com/jobs/300017-entry-level-software-developer) |
-| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-11-08 13:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
-| Product Manager IV, Health Systems | Kaiser Permanente | United States | 2026-11-08 13:24 UTC | relocation | [Apply](https://jaabz.com/jobs/300000-product-manager-iv-utilization-management-epic-tapestry-um) |
-| Chief Engineer - Identity & Access Management | Kaiser Permanente | United States | 2026-11-08 13:10 UTC | relocation | [Apply](https://jaabz.com/jobs/299993-it-infrastructure-engineer-vi-pam-greensboro-nc) |
-| Full-Stack Developer Intern | extramus.eu | ITALY | 2026-11-08 13:00 UTC | relocation | [Apply](https://jaabz.com/jobs/244048-full-stack-development) |
-| Senior Forward Deployed Engineer | refractal | UNITED KINGDOM | 2026-11-08 11:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/299945-senior-forward-deployed-engineer) |
-| Deposits Portfolio Analyst | Salmon Group Ltd | KAZAKHSTAN | 2026-11-08 11:29 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/264865-data-analyst-deposits) |
-| Senior Mission Engineer (Spacecraft Systems) | iSpace, Inc. | JAPAN | 2026-11-08 11:11 UTC | relocation | [Apply](https://jaabz.com/jobs/299930-senior-mission-engineer) |
-| Director, HR IGS (Global HR Operations & Shared Services) | ingredion incorporated | MEXICO | 2026-11-08 10:03 UTC | relocation | [Apply](https://jaabz.com/jobs/299907-director-hr-igs) |
-| Quality Manager (OCTG Manufacturing) – API 5CT Compliance & Process Improvement | Jobot | United States | 2026-11-08 09:45 UTC | relocation | [Apply](https://jaabz.com/jobs/283998-quality-manager-a-octg-ndt-api-5ct) |
-| Senior Product Engineer (Python/Go) – Production Agentic AI Systems | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288068-senior-product-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior/Staff Product Engineer (Python/Go) – Relocation to London from EU | owen thomas / b corp™ | EUROPEAN UNION | 2026-11-08 09:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292419-senior-staff-product-engineer-python-go-europe-to-london-career-move-aps15k-relocation-package-family-visa-sponsorship-aps100k-aps200k-equity) |
-| Procurement Manager | fonio | AUSTRIA | 2026-11-08 06:59 UTC | relocation | [Apply](https://jaabz.com/jobs/299845-procurement-manager) |
-| Business Development Representative | zeit-ai | GERMANY | 2026-11-08 06:58 UTC | relocation | [Apply](https://jaabz.com/jobs/299846-senior-business-development-representative-fmd) |
+| Technical Recruiter | Genesis AI | FRANCE | 2026-11-09 16:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300909-recruiter-ai-research-engineering) |
+| Senior People Partner / HR Business Partner | Genesis AI | United States | 2026-11-09 16:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300916-senior-people-partner) |
+| Payroll Delivery Team Leader (HR) - MI5 | mi5 | UNITED KINGDOM | 2026-11-09 16:34 UTC | relocation | [Apply](https://jaabz.com/jobs/300917-payroll-delivery-team-leader) |
+| Senior Technical Talent Sourcing Specialist (AI/ML/Robotics) | Genesis AI | UNITED KINGDOM | 2026-11-09 16:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300910-sourcer-ai-research-engineering) |
+| Compensation Analyst | ermco-eci | United States | 2026-11-09 16:32 UTC | relocation | [Apply](https://jaabz.com/jobs/277433-compensation-analyst) |
+| Principal Recruitment Consultant | clear. | UNITED ARAB EMIRATES | 2026-11-09 16:31 UTC | relocation | [Apply](https://jaabz.com/jobs/270412-principal-recruitment-consultant) |
+| CRM Specialist (HubSpot, Marketo, Salesforce, or Klaviyo) - Email Marketing & Automation | air apps | GREATER MADRID METROPOLITAN AREA | 2026-11-09 16:20 UTC | relocation | [Apply](https://jaabz.com/jobs/276902-crm-specialist) |
+| Growth Engineering & Recruiting Automation Lead | Genesis AI | FRANCE | 2026-11-09 16:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300881-growth-engineer-recruiting-people) |
+| Junior Product Manager (Mobile Payments & Smart Mobility) | be.change consulting | United States | 2026-11-09 14:40 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/300816-junior-product-manager-mobile-app-bilingual-englishspanish) |
+| Entry-Level Mobile Developer (Full-Time) | Tech Consulting | United States | 2026-11-09 14:28 UTC | relocation | [Apply](https://jaabz.com/jobs/300790-mobile-developer) |
+| Lead of Internal IT | chillbase | SERBIA | 2026-11-09 14:27 UTC | relocation | [Apply](https://jaabz.com/jobs/282365-lead-ofa-internal-it) |
+| Senior C++ Developer - Options Trading | Wintermute | UNITED KINGDOM | 2026-11-09 14:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292723-c-quant-developer-options) |
+| Junior Cloud Engineer (Entry Level) – Cloud Infrastructure & DevOps Support | Tech Consulting | United State | 2026-11-09 14:22 UTC | relocation | [Apply](https://jaabz.com/jobs/291949-cloud-engineer) |
+| Senior Full Stack Engineer | Wintermute | UNITED KINGDOM | 2026-11-09 14:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292754-full-stack-engineer) |
+| Senior Software Developer | NPAworldwide | United States | 2026-11-09 13:36 UTC | relocation | [Apply](https://jaabz.com/jobs/300731-software-developer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
