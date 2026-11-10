@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-09 16:59** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-10 15:19** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Technical Recruiter | Genesis AI | FRANCE | 2026-11-09 16:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300909-recruiter-ai-research-engineering) |
-| Senior People Partner / HR Business Partner | Genesis AI | United States | 2026-11-09 16:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300916-senior-people-partner) |
-| Payroll Delivery Team Leader (HR) - MI5 | mi5 | UNITED KINGDOM | 2026-11-09 16:34 UTC | relocation | [Apply](https://jaabz.com/jobs/300917-payroll-delivery-team-leader) |
-| Senior Technical Talent Sourcing Specialist (AI/ML/Robotics) | Genesis AI | UNITED KINGDOM | 2026-11-09 16:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300910-sourcer-ai-research-engineering) |
-| Compensation Analyst | ermco-eci | United States | 2026-11-09 16:32 UTC | relocation | [Apply](https://jaabz.com/jobs/277433-compensation-analyst) |
-| Principal Recruitment Consultant | clear. | UNITED ARAB EMIRATES | 2026-11-09 16:31 UTC | relocation | [Apply](https://jaabz.com/jobs/270412-principal-recruitment-consultant) |
-| CRM Specialist (HubSpot, Marketo, Salesforce, or Klaviyo) - Email Marketing & Automation | air apps | GREATER MADRID METROPOLITAN AREA | 2026-11-09 16:20 UTC | relocation | [Apply](https://jaabz.com/jobs/276902-crm-specialist) |
-| Growth Engineering & Recruiting Automation Lead | Genesis AI | FRANCE | 2026-11-09 16:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/300881-growth-engineer-recruiting-people) |
-| Junior Product Manager (Mobile Payments & Smart Mobility) | be.change consulting | United States | 2026-11-09 14:40 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/300816-junior-product-manager-mobile-app-bilingual-englishspanish) |
-| Entry-Level Mobile Developer (Full-Time) | Tech Consulting | United States | 2026-11-09 14:28 UTC | relocation | [Apply](https://jaabz.com/jobs/300790-mobile-developer) |
-| Lead of Internal IT | chillbase | SERBIA | 2026-11-09 14:27 UTC | relocation | [Apply](https://jaabz.com/jobs/282365-lead-ofa-internal-it) |
-| Senior C++ Developer - Options Trading | Wintermute | UNITED KINGDOM | 2026-11-09 14:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292723-c-quant-developer-options) |
-| Junior Cloud Engineer (Entry Level) – Cloud Infrastructure & DevOps Support | Tech Consulting | United State | 2026-11-09 14:22 UTC | relocation | [Apply](https://jaabz.com/jobs/291949-cloud-engineer) |
-| Senior Full Stack Engineer | Wintermute | UNITED KINGDOM | 2026-11-09 14:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/292754-full-stack-engineer) |
-| Senior Software Developer | NPAworldwide | United States | 2026-11-09 13:36 UTC | relocation | [Apply](https://jaabz.com/jobs/300731-software-developer) |
+| Senior/Principal 5G PHY & SoC System Architect (Hybrid) | co=yoh (a day & zimmerman company) | UNITED KINGDOM | 2026-11-10 15:06 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301804-5g-phy-soc-architect) |
+| Software Development Engineer in Test (SDET) - Embedded Systems | topic | NETHERLANDS | 2026-11-10 15:04 UTC | relocation | [Apply](https://jaabz.com/jobs/301798-software-engineer-in-test) |
+| Lead Software Engineer (Safety Intelligence Platform) | coera robotics | GERMANY | 2026-11-10 14:58 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301759-lead-software-engineer) |
+| Junior Data Scientist | Cobblestone Energy | UNITED ARAB EMIRATES | 2026-11-10 14:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/278224-commercial-graduate-scheme-junior-data-scientist) |
+| Senior Backend Engineer | Huspy | UNITED KINGDOM | 2026-11-10 14:44 UTC | relocation | [Apply](https://jaabz.com/jobs/277138-backend-software-engineer) |
+| Senior Python Software Developer | hfm | GREECE | 2026-11-10 14:44 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/275476-senior-software-developer-python) |
+| Senior Controls Engineer – Automation | Strativ Group | United States | 2026-11-10 13:49 UTC | relocation | [Apply](https://jaabz.com/jobs/301724-senior-controls-engineer-automation) |
+| Motion Planning & Control Engineer (Autonomous Racing) | constructor knowledge labs | LUXEMBOURG | 2026-11-10 13:40 UTC | relocation | [Apply](https://jaabz.com/jobs/301741-motion-planning-control-engineer) |
+| Senior Product Manager (Core Banking & AI Agents) - Oradian | Oradian | CROATIA | 2026-11-10 13:39 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/301731-senior-product-manager-core-banking-ai-relocation-to-croatia) |
+| Senior Product Manager | Oradian | CROATIA | 2026-11-10 13:29 UTC | relocation | [Apply](https://jaabz.com/jobs/301726-senior-product-manager-core-banking-ai-relocation-to-croatia) |
+| QA AI Automation Engineer | tektora | UNITED ARAB EMIRATES | 2026-11-10 13:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301706-qa-ai-automation-engineer-llm-model-evaluation) |
+| Visual Designer | Bending Spoons | ITALY | 2026-11-10 13:23 UTC | relocation | [Apply](https://jaabz.com/jobs/276500-graduate-visual-motion-designer) |
+| Lead / Staff QA Engineer | ai71 | UNITED ARAB EMIRATES | 2026-11-10 13:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/275691-staff-quality-assurance-engineer) |
+| Backend Engineer - Communications Platform | Ramp | United States | 2026-11-10 13:10 UTC | relocation | [Apply](https://jaabz.com/jobs/301694-software-engineer-backend-comms-platform) |
+| Senior Product Lead - Monzo Mobile | monzo | UNITED KINGDOM | 2026-11-10 13:08 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/301691-lead-product-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
