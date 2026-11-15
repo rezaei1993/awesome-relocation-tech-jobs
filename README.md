@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-14 13:52** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-15 14:25** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Software Engineer - Security | saildrone | United States | 2026-11-14 13:05 UTC | relocation | [Apply](https://jaabz.com/jobs/304938-staff-software-engineer-security) |
-| Director of Sales & Marketing – Luxury Hospitality (Luxury Mixed-Use Resort) | Remington Hospitality | CAYMAN ISLANDS | 2026-11-14 12:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291519-director-of-sales-and-marketing-at-onegt-cayman-island-140k-160k-usd-tax-freenet) |
-| Member of Technical Staff, Applied AI | gc ai | CANADA | 2026-11-14 12:50 UTC | relocation | [Apply](https://jaabz.com/jobs/282072-member-of-technical-staff-applied-ai) |
-| Principal Computer Systems Analyst | northrop grumman | United States | 2026-11-14 12:46 UTC | relocation | [Apply](https://jaabz.com/jobs/272821-principal-computer-systems-analyst) |
-| Full Stack Software Engineer (C#/.NET, ASP.NET Core) | nt-ware systemprogrammierungs-gmbh | GERMANY | 2026-11-14 11:29 UTC | relocation | [Apply](https://jaabz.com/jobs/304845-full-stack-engineer) |
-| Surveillance Controller (Fraud & Risk Monitoring) | arrise live | UNITED ARAB EMIRATES | 2026-11-14 11:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304875-surveillance-controller) |
-| Staff Global People Ops Partner | saildrone | United States | 2026-11-14 11:23 UTC | relocation | [Apply](https://jaabz.com/jobs/304883-global-people-operations-partner) |
-| Combustion Engineer (Propulsion Systems) - Future Project Division | The Exploration Company | FRANCE | 2026-11-14 11:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304863-combustion-engineer) |
-| Localisation Assistant (Translation & Localization Projects) | PeopleCert | PORTUGAL | 2026-11-14 11:08 UTC | relocation | [Apply](https://jaabz.com/jobs/304862-localisation-assistant-brazilian-portuguese-speaking-relocation-to-athens) |
-| AI Image Specialist | Puffy | PORTUGAL | 2026-11-14 11:04 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/273728-ai-image-designer) |
-| Hardware-in-the-Loop Engineer (Cryogenic Rocket Engine) - France | The Exploration Company | FRANCE | 2026-11-14 11:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/304849-hil-engineer-a-huracan-rocket-engine) |
-| Founding Engineer – AI Automation for SOX Compliance (Pre-Seed, San Francisco) | dex | UNITED KINGDOM | 2026-11-14 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/264423-founding-engineer-up-to-aps160k) |
-| Senior QA Engineer (Cloud Business Model) - Tokyo/Osaka | g talent | JAPAN | 2026-11-14 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284473-aqa-engineeralisted-saas-company-full-remote-jlpt-n2i) |
-| Senior Android Engineer (Mobile Development) - Global Team | g talent | JAPAN | 2026-11-14 11:01 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/284468-aandroid-engineeralisted-saas-company-full-remote-jlpt-n2i) |
-| Senior Product Engineer (Generative AI) | g talent | JAPAN | 2026-11-14 10:58 UTC | remote, visa, relocation | [Apply](https://jaabz.com/jobs/284474-aproduct-engineeralisted-saas-company-full-remote-jlpt-n2i) |
+| Visual Designer | Bending Spoons | ITALY | 2026-11-15 13:50 UTC | relocation | [Apply](https://jaabz.com/jobs/276500-graduate-visual-motion-designer) |
+| Manager, Mission Software (Seaglider Systems) | regent | United State | 2026-11-15 13:43 UTC | relocation | [Apply](https://jaabz.com/jobs/289662-manager-mission-software) |
+| Senior / Staff Product Engineer | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305499-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
+| Product Engineer / Mid/Senior/Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305502-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
+| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
+| Director of Sales & Marketing | Remington Hospitality | United States | 2026-11-15 12:17 UTC | relocation | [Apply](https://jaabz.com/jobs/305469-bilingual-director-of-sales-and-marketing-a-la-mare-hotel-in-brickell-miami-fl-190k-200k) |
+| Alumni Officer | anglia ruskin university | UNITED KINGDOM | 2026-11-15 12:16 UTC | relocation | [Apply](https://jaabz.com/jobs/305470-alumni-officer) |
+| Security Operations Centre (SOC) Manager | G-Research | UNITED KINGDOM | 2026-11-15 12:04 UTC | relocation | [Apply](https://jaabz.com/jobs/305478-security-operations-centre-manager) |
+| Director of Sales & Marketing – Luxury Hospitality (Luxury Mixed-Use Resort) | Remington Hospitality | CAYMAN ISLANDS | 2026-11-15 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291519-director-of-sales-and-marketing-at-onegt-cayman-island-140k-160k-usd-tax-freenet) |
+| Product Engineer / Mid/Senior/Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 11:46 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305446-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
+| Senior Product Engineer | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 11:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305442-senior-product-engineer-python-go-ts-production-agentic-ai-b2c-start-up-series-a-aps100k-aps250k-equity-london-5-days-visa-sponsorship-relocation) |
+| Senior / Staff Product Engineer | Owen Thomas | UNITED KINGDOM | 2026-11-15 11:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305443-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
+| Permanent Site Resident Engineer (Construction & Engineering) | Jobot | United State | 2026-11-15 09:59 UTC | relocation | [Apply](https://jaabz.com/jobs/287748-site-resident-engineer) |
+| Senior Residential Architect & Design Team Lead | juniper | United State | 2026-11-15 09:56 UTC | relocation | [Apply](https://jaabz.com/jobs/286458-architectural-design-manager) |
+| Senior Business Strategist (Strategy & Planning) | kiss beauty group | United States | 2026-11-15 08:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305373-manager-strategy-planning) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
