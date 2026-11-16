@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-15 14:25** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-16 16:37** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Visual Designer | Bending Spoons | ITALY | 2026-11-15 13:50 UTC | relocation | [Apply](https://jaabz.com/jobs/276500-graduate-visual-motion-designer) |
-| Manager, Mission Software (Seaglider Systems) | regent | United State | 2026-11-15 13:43 UTC | relocation | [Apply](https://jaabz.com/jobs/289662-manager-mission-software) |
-| Senior / Staff Product Engineer | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305499-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
-| Product Engineer / Mid/Senior/Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305502-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
-| Senior Forward Deployed Engineer (Python/Go) – Production Agentic AI | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 13:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/288074-forward-deployed-engineer-python-go-production-agentic-ai-b2c-start-up-series-a-aps100k-aps200k-equity-london-5-days-visa-sponsorship-relocation) |
-| Director of Sales & Marketing | Remington Hospitality | United States | 2026-11-15 12:17 UTC | relocation | [Apply](https://jaabz.com/jobs/305469-bilingual-director-of-sales-and-marketing-a-la-mare-hotel-in-brickell-miami-fl-190k-200k) |
-| Alumni Officer | anglia ruskin university | UNITED KINGDOM | 2026-11-15 12:16 UTC | relocation | [Apply](https://jaabz.com/jobs/305470-alumni-officer) |
-| Security Operations Centre (SOC) Manager | G-Research | UNITED KINGDOM | 2026-11-15 12:04 UTC | relocation | [Apply](https://jaabz.com/jobs/305478-security-operations-centre-manager) |
-| Director of Sales & Marketing – Luxury Hospitality (Luxury Mixed-Use Resort) | Remington Hospitality | CAYMAN ISLANDS | 2026-11-15 12:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/291519-director-of-sales-and-marketing-at-onegt-cayman-island-140k-160k-usd-tax-freenet) |
-| Product Engineer / Mid/Senior/Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 11:46 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305446-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
-| Senior Product Engineer | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-15 11:45 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305442-senior-product-engineer-python-go-ts-production-agentic-ai-b2c-start-up-series-a-aps100k-aps250k-equity-london-5-days-visa-sponsorship-relocation) |
-| Senior / Staff Product Engineer | Owen Thomas | UNITED KINGDOM | 2026-11-15 11:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305443-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
-| Permanent Site Resident Engineer (Construction & Engineering) | Jobot | United State | 2026-11-15 09:59 UTC | relocation | [Apply](https://jaabz.com/jobs/287748-site-resident-engineer) |
-| Senior Residential Architect & Design Team Lead | juniper | United State | 2026-11-15 09:56 UTC | relocation | [Apply](https://jaabz.com/jobs/286458-architectural-design-manager) |
-| Senior Business Strategist (Strategy & Planning) | kiss beauty group | United States | 2026-11-15 08:17 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/305373-manager-strategy-planning) |
+| Senior Postdoctoral Researcher – Targeted Therapeutics & Nanodevices | institute for bioengineering of catalonia (ibec) | SPAIN | 2026-11-16 16:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306370-postdoctoral-researcher) |
+| Staff Engineer | meeboss | United States | 2026-11-16 16:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306372-staff-engineer-at-prestige-workforce-solutions) |
+| Senior Embedded Talent Consultant (Aerospace, Robotics & AI, Defence, Space, Automotive) | apera | UNITED KINGDOM | 2026-11-16 16:23 UTC | relocation | [Apply](https://jaabz.com/jobs/266710-senior-recruitment-consultant) |
+| Embedded Talent Consultant | apera | UNITED KINGDOM | 2026-11-16 16:23 UTC | relocation | [Apply](https://jaabz.com/jobs/235868-embedded-talent-partner) |
+| Principal Robotics Software Engineer | CHAOS Industries | United States | 2026-11-16 16:16 UTC | relocation | [Apply](https://jaabz.com/jobs/306360-principal-robotics-software-engineer) |
+| Software Developer | Epic | United States | 2026-11-16 15:57 UTC | relocation | [Apply](https://jaabz.com/jobs/306304-software-engineer) |
+| Senior Graphic Designer | gloria jeans | UNITED ARAB EMIRATES | 2026-11-16 15:56 UTC | relocation | [Apply](https://jaabz.com/jobs/306316-senior-graphic-designer) |
+| IT Security & Vendor Governance Officer | Tenth Revolution Group | SPAIN | 2026-11-16 15:55 UTC | relocation | [Apply](https://jaabz.com/jobs/306310-ciber-security-analist) |
+| Senior Systems Engineer | arx robotics | GERMANY | 2026-11-16 15:54 UTC | relocation | [Apply](https://jaabz.com/jobs/306311-senior-systems-engineer-mfd-reliability-technical-solution) |
+| Lead IT Engineer (Corporate Infrastructure & Cloud Architecture) | Helsing | GERMANY | 2026-11-16 15:52 UTC | relocation | [Apply](https://jaabz.com/jobs/280994-lead-it-engineer) |
+| Senior Full-Stack Engineer | ivo | United States | 2026-11-16 15:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/277561-senior-software-engineer-fullstack) |
+| Senior Backend Engineer - Pricing and Risk Management | Bitpanda | SPAIN | 2026-11-16 15:46 UTC | relocation | [Apply](https://jaabz.com/jobs/235641-software-engineer-python-asset-pricing-hedging) |
+| Senior Backend Engineer - Rust & Python | Bitpanda | AUSTRIA | 2026-11-16 15:46 UTC | relocation | [Apply](https://jaabz.com/jobs/236385-software-engineer-rust-python-asset-pricing-hedging) |
+| Senior Cloud Engineer | HomeToGo | GERMANY | 2026-11-16 15:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/253886-senior-cloud-engineer-mfd) |
+| Senior Information System Security Manager (ISSM) | the boeing company | United States | 2026-11-16 15:30 UTC | relocation | [Apply](https://jaabz.com/jobs/306266-cybersecurity-senior-information-system-security-manager-issm-sign-on-bonus-potential) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
