@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-16 16:37** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-17 16:35** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Senior Postdoctoral Researcher – Targeted Therapeutics & Nanodevices | institute for bioengineering of catalonia (ibec) | SPAIN | 2026-11-16 16:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306370-postdoctoral-researcher) |
-| Staff Engineer | meeboss | United States | 2026-11-16 16:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306372-staff-engineer-at-prestige-workforce-solutions) |
-| Senior Embedded Talent Consultant (Aerospace, Robotics & AI, Defence, Space, Automotive) | apera | UNITED KINGDOM | 2026-11-16 16:23 UTC | relocation | [Apply](https://jaabz.com/jobs/266710-senior-recruitment-consultant) |
-| Embedded Talent Consultant | apera | UNITED KINGDOM | 2026-11-16 16:23 UTC | relocation | [Apply](https://jaabz.com/jobs/235868-embedded-talent-partner) |
-| Principal Robotics Software Engineer | CHAOS Industries | United States | 2026-11-16 16:16 UTC | relocation | [Apply](https://jaabz.com/jobs/306360-principal-robotics-software-engineer) |
-| Software Developer | Epic | United States | 2026-11-16 15:57 UTC | relocation | [Apply](https://jaabz.com/jobs/306304-software-engineer) |
-| Senior Graphic Designer | gloria jeans | UNITED ARAB EMIRATES | 2026-11-16 15:56 UTC | relocation | [Apply](https://jaabz.com/jobs/306316-senior-graphic-designer) |
-| IT Security & Vendor Governance Officer | Tenth Revolution Group | SPAIN | 2026-11-16 15:55 UTC | relocation | [Apply](https://jaabz.com/jobs/306310-ciber-security-analist) |
-| Senior Systems Engineer | arx robotics | GERMANY | 2026-11-16 15:54 UTC | relocation | [Apply](https://jaabz.com/jobs/306311-senior-systems-engineer-mfd-reliability-technical-solution) |
-| Lead IT Engineer (Corporate Infrastructure & Cloud Architecture) | Helsing | GERMANY | 2026-11-16 15:52 UTC | relocation | [Apply](https://jaabz.com/jobs/280994-lead-it-engineer) |
-| Senior Full-Stack Engineer | ivo | United States | 2026-11-16 15:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/277561-senior-software-engineer-fullstack) |
-| Senior Backend Engineer - Pricing and Risk Management | Bitpanda | SPAIN | 2026-11-16 15:46 UTC | relocation | [Apply](https://jaabz.com/jobs/235641-software-engineer-python-asset-pricing-hedging) |
-| Senior Backend Engineer - Rust & Python | Bitpanda | AUSTRIA | 2026-11-16 15:46 UTC | relocation | [Apply](https://jaabz.com/jobs/236385-software-engineer-rust-python-asset-pricing-hedging) |
-| Senior Cloud Engineer | HomeToGo | GERMANY | 2026-11-16 15:42 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/253886-senior-cloud-engineer-mfd) |
-| Senior Information System Security Manager (ISSM) | the boeing company | United States | 2026-11-16 15:30 UTC | relocation | [Apply](https://jaabz.com/jobs/306266-cybersecurity-senior-information-system-security-manager-issm-sign-on-bonus-potential) |
+| International Product Marketing Manager Automotive | NXP Semiconductors | NETHERLANDS | 2026-11-17 16:20 UTC | relocation | [Apply](https://jaabz.com/jobs/307135-international-product-marketing-manager) |
+| AI Engineer – Internal Automation | Leaseweb | NETHERLANDS | 2026-11-17 16:19 UTC | relocation | [Apply](https://jaabz.com/jobs/307131-ai-engineer) |
+| Server Systems Administrator | Epic | United States | 2026-11-17 16:13 UTC | relocation | [Apply](https://jaabz.com/jobs/307125-server-systems-administrator) |
+| Software Engineer Robotics | arculus – a Jungheinrich company | GERMANY | 2026-11-17 16:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307112-software-engineer-robotics-dfm) |
+| Rendering Programmer | beamng gmbh | GERMANY | 2026-11-17 16:09 UTC | relocation | [Apply](https://jaabz.com/jobs/262848-senior-rendering-programmer-remoteonsite) |
+| Engineering Manager (Java/Kotlin Stack) | plata | — | 2026-11-17 15:50 UTC | relocation | [Apply](https://jaabz.com/jobs/307092-engineering-manager-javakotlin-stack) |
+| Senior or Principal Consultant – Data Centres & Critical Infrastructure Recruiter | sr2 | United States | 2026-11-17 14:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307085-senior-or-principal-consultant-data-centres-critical-infrastructure) |
+| Site Reliability Engineer | Helsing | GERMANY | 2026-11-17 14:34 UTC | relocation | [Apply](https://jaabz.com/jobs/217896-site-reliability-engineer) |
+| DevOps Engineer – Linux & Robotics Platforms | arculus | GERMANY | 2026-11-17 14:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307057-devops-engineer-a-linux-robotics-platforms-dfm) |
+| Strategic Deployments Lead, Quality Ops (Finance) | Digital Waffle | United States | 2026-11-17 14:24 UTC | relocation | [Apply](https://jaabz.com/jobs/307041-strategic-deployments-lead-quality-ops-finance) |
+| Product Engineer - Clearing Products | augustus | GERMANY | 2026-11-17 13:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307011-product-engineer) |
+| Senior Software engineer (Gomobile / iOS/Android) | bp | INDIA | 2026-11-17 12:48 UTC | relocation | [Apply](https://jaabz.com/jobs/270581-senior-software-engineer-gomobile-iosandroid) |
+| Senior SAP Datasphere Developer / Solution Architect | Fusion Consulting | INDIA | 2026-11-17 12:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306995-datasphere-developer-technical-lead) |
+| AI Engineer - Cybersecurity R&D | GMV | SPAIN | 2026-11-17 12:38 UTC | relocation | [Apply](https://jaabz.com/jobs/306972-big-data-engineer) |
+| Senior Product Designer - AI-Driven Investment & Pension Products | Raisin | GERMANY | 2026-11-17 12:37 UTC | relocation | [Apply](https://jaabz.com/jobs/254370-senior-product-designer-mfd) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
