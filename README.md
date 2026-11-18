@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-17 16:35** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-18 16:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| International Product Marketing Manager Automotive | NXP Semiconductors | NETHERLANDS | 2026-11-17 16:20 UTC | relocation | [Apply](https://jaabz.com/jobs/307135-international-product-marketing-manager) |
-| AI Engineer – Internal Automation | Leaseweb | NETHERLANDS | 2026-11-17 16:19 UTC | relocation | [Apply](https://jaabz.com/jobs/307131-ai-engineer) |
-| Server Systems Administrator | Epic | United States | 2026-11-17 16:13 UTC | relocation | [Apply](https://jaabz.com/jobs/307125-server-systems-administrator) |
-| Software Engineer Robotics | arculus – a Jungheinrich company | GERMANY | 2026-11-17 16:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307112-software-engineer-robotics-dfm) |
-| Rendering Programmer | beamng gmbh | GERMANY | 2026-11-17 16:09 UTC | relocation | [Apply](https://jaabz.com/jobs/262848-senior-rendering-programmer-remoteonsite) |
-| Engineering Manager (Java/Kotlin Stack) | plata | — | 2026-11-17 15:50 UTC | relocation | [Apply](https://jaabz.com/jobs/307092-engineering-manager-javakotlin-stack) |
-| Senior or Principal Consultant – Data Centres & Critical Infrastructure Recruiter | sr2 | United States | 2026-11-17 14:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307085-senior-or-principal-consultant-data-centres-critical-infrastructure) |
-| Site Reliability Engineer | Helsing | GERMANY | 2026-11-17 14:34 UTC | relocation | [Apply](https://jaabz.com/jobs/217896-site-reliability-engineer) |
-| DevOps Engineer – Linux & Robotics Platforms | arculus | GERMANY | 2026-11-17 14:33 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307057-devops-engineer-a-linux-robotics-platforms-dfm) |
-| Strategic Deployments Lead, Quality Ops (Finance) | Digital Waffle | United States | 2026-11-17 14:24 UTC | relocation | [Apply](https://jaabz.com/jobs/307041-strategic-deployments-lead-quality-ops-finance) |
-| Product Engineer - Clearing Products | augustus | GERMANY | 2026-11-17 13:03 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307011-product-engineer) |
-| Senior Software engineer (Gomobile / iOS/Android) | bp | INDIA | 2026-11-17 12:48 UTC | relocation | [Apply](https://jaabz.com/jobs/270581-senior-software-engineer-gomobile-iosandroid) |
-| Senior SAP Datasphere Developer / Solution Architect | Fusion Consulting | INDIA | 2026-11-17 12:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/306995-datasphere-developer-technical-lead) |
-| AI Engineer - Cybersecurity R&D | GMV | SPAIN | 2026-11-17 12:38 UTC | relocation | [Apply](https://jaabz.com/jobs/306972-big-data-engineer) |
-| Senior Product Designer - AI-Driven Investment & Pension Products | Raisin | GERMANY | 2026-11-17 12:37 UTC | relocation | [Apply](https://jaabz.com/jobs/254370-senior-product-designer-mfd) |
+| High-Frequency Quant Developer - Low-Latency Core Systems | FORTE ICT | CHINA | 2026-11-18 14:58 UTC | relocation | [Apply](https://jaabz.com/jobs/308010-low-latency-core-systems-developer-us-global-equities-1-15-million-basic-salary-plus-lucarative-sign-on-bonus-and-benefits) |
+| Lead DeltaV Automation Engineer | Xperior Global | United States | 2026-11-18 14:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308033-lead-automation-engineer) |
+| Product Manager - Internal Efficiencies | hfm | GREECE | 2026-11-18 14:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308035-product-manager-internal-efficiencies) |
+| Sr Principal Systems Engineer | northrop grumman | United States | 2026-11-18 14:50 UTC | relocation | [Apply](https://jaabz.com/jobs/308071-space-sr-principal-engineer-systems) |
+| Senior Software Developer - Test Framework | general motors | United States | 2026-11-18 14:32 UTC | relocation | [Apply](https://jaabz.com/jobs/308050-senior-software-developer-test-framework) |
+| Enterprise Solutions Architect | hfm | GREECE | 2026-11-18 14:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308054-enterprise-solutions-architect) |
+| Trading Platforms Enterprise Infrastructure Architect (MT4/MT5) | hfm | CYPRUS | 2026-11-18 14:28 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283232-trading-platforms-enterprise-infrastructure-architect) |
+| Junior Cloud Engineer | Tech Consulting | United States | 2026-11-18 14:16 UTC | relocation | [Apply](https://jaabz.com/jobs/308011-jr-cloud-engineer) |
+| Network Optimization Engineer (Mobile Core & Service Performance) | 1global | BRAZIL | 2026-11-18 14:13 UTC | relocation | [Apply](https://jaabz.com/jobs/290863-network-optimization-engineer-lisbon-based) |
+| AI Programmer (Senior) - Gray Zone Warfare | MADFINGER Games, a.s. | CZECHIA | 2026-11-18 14:09 UTC | relocation | [Apply](https://jaabz.com/jobs/115074-ai-programmer) |
+| Principal AI Engineer | Bluebird | UNITED KINGDOM | 2026-11-18 14:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/256534-principal-ai-engineer) |
+| Junior Data Engineer | Tech Consulting | United States | 2026-11-18 14:09 UTC | relocation | [Apply](https://jaabz.com/jobs/308009-junior-aiml-engineer) |
+| Senior Backend Engineer | Ramp | United States | 2026-11-18 13:57 UTC | relocation | [Apply](https://jaabz.com/jobs/307454-senior-software-engineer-product-foundations) |
+| Computer Systems Analyst | northrop grumman | United States | 2026-11-18 12:48 UTC | relocation | [Apply](https://jaabz.com/jobs/307935-windows-systems-administrator-secret) |
+| Testing Lead - Bybit EU | Bybit | AUSTRIA | 2026-11-18 12:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307964-lead-quality-assurance-a-eu-mandarin-english-speaking) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
