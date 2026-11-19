@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-18 16:03** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-19 16:11** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| High-Frequency Quant Developer - Low-Latency Core Systems | FORTE ICT | CHINA | 2026-11-18 14:58 UTC | relocation | [Apply](https://jaabz.com/jobs/308010-low-latency-core-systems-developer-us-global-equities-1-15-million-basic-salary-plus-lucarative-sign-on-bonus-and-benefits) |
-| Lead DeltaV Automation Engineer | Xperior Global | United States | 2026-11-18 14:56 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308033-lead-automation-engineer) |
-| Product Manager - Internal Efficiencies | hfm | GREECE | 2026-11-18 14:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308035-product-manager-internal-efficiencies) |
-| Sr Principal Systems Engineer | northrop grumman | United States | 2026-11-18 14:50 UTC | relocation | [Apply](https://jaabz.com/jobs/308071-space-sr-principal-engineer-systems) |
-| Senior Software Developer - Test Framework | general motors | United States | 2026-11-18 14:32 UTC | relocation | [Apply](https://jaabz.com/jobs/308050-senior-software-developer-test-framework) |
-| Enterprise Solutions Architect | hfm | GREECE | 2026-11-18 14:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308054-enterprise-solutions-architect) |
-| Trading Platforms Enterprise Infrastructure Architect (MT4/MT5) | hfm | CYPRUS | 2026-11-18 14:28 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/283232-trading-platforms-enterprise-infrastructure-architect) |
-| Junior Cloud Engineer | Tech Consulting | United States | 2026-11-18 14:16 UTC | relocation | [Apply](https://jaabz.com/jobs/308011-jr-cloud-engineer) |
-| Network Optimization Engineer (Mobile Core & Service Performance) | 1global | BRAZIL | 2026-11-18 14:13 UTC | relocation | [Apply](https://jaabz.com/jobs/290863-network-optimization-engineer-lisbon-based) |
-| AI Programmer (Senior) - Gray Zone Warfare | MADFINGER Games, a.s. | CZECHIA | 2026-11-18 14:09 UTC | relocation | [Apply](https://jaabz.com/jobs/115074-ai-programmer) |
-| Principal AI Engineer | Bluebird | UNITED KINGDOM | 2026-11-18 14:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/256534-principal-ai-engineer) |
-| Junior Data Engineer | Tech Consulting | United States | 2026-11-18 14:09 UTC | relocation | [Apply](https://jaabz.com/jobs/308009-junior-aiml-engineer) |
-| Senior Backend Engineer | Ramp | United States | 2026-11-18 13:57 UTC | relocation | [Apply](https://jaabz.com/jobs/307454-senior-software-engineer-product-foundations) |
-| Computer Systems Analyst | northrop grumman | United States | 2026-11-18 12:48 UTC | relocation | [Apply](https://jaabz.com/jobs/307935-windows-systems-administrator-secret) |
-| Testing Lead - Bybit EU | Bybit | AUSTRIA | 2026-11-18 12:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/307964-lead-quality-assurance-a-eu-mandarin-english-speaking) |
+| Embedded Software Engineer Level 3/4 | northrop grumman | United States | 2026-11-19 16:08 UTC | relocation | [Apply](https://jaabz.com/jobs/308972-embedded-software-engineer-a-level-3-or-4) |
+| Senior Network Administrator | pilbara ports | AUSTRALIA | 2026-11-19 15:07 UTC | relocation | [Apply](https://jaabz.com/jobs/308836-senior-network-administrator) |
+| Data Scientist - Marketing Science & Operations | trivago | GERMANY | 2026-11-19 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308940-data-scientist-marketing) |
+| ESS Product Corporate Strategy & Planning Sr. Manager/Director | pending (linkedin.com) | United States | 2026-11-19 14:46 UTC | relocation | [Apply](https://jaabz.com/jobs/308897-ess-product-strategy-and-planning-sr-mangerdirector-korean-fluency) |
+| Analytics Engineering Lead | clarios | SLOVAKIA | 2026-11-19 14:19 UTC | relocation | [Apply](https://jaabz.com/jobs/308913-analytics-engineering-lead) |
+| Community Management Lead | Frontier Developments | UNITED KINGDOM | 2026-11-19 14:18 UTC | relocation | [Apply](https://jaabz.com/jobs/308918-community-management-lead) |
+| Applied Machine Learning Engineer | thinkermesh | PORTUGAL | 2026-11-19 13:46 UTC | relocation | [Apply](https://jaabz.com/jobs/308864-applied-machine-learning-engineer) |
+| Frontend Engineer | arondite | UNITED KINGDOM | 2026-11-19 13:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308857-frontend-software-engineer) |
+| Senior Testing & Characterization Lead | Darwin Recruitment | NETHERLANDS | 2026-11-19 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308747-pic-characterization) |
+| Systems Engineer | confidential venture-backed technology company | United States | 2026-11-19 12:12 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308810-systems-engineer) |
+| Quality Assurance Engineer - Conversational AI & Voice | Miratech | CANADA | 2026-11-19 12:11 UTC | relocation | [Apply](https://jaabz.com/jobs/308748-quality-assurance-engineer-a-conversational-ai-voice-testing) |
+| AI Workflow Specialist | Puffy | UNITED ARAB EMIRATES | 2026-11-19 11:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308787-ai-workflow-specialist-on-site-in-dubai) |
+| Lead Principal Systems Engineer, Zero Boil Off (ZBO) Cryocooler | Blue Origin | United States | 2026-11-19 11:30 UTC | relocation | [Apply](https://jaabz.com/jobs/308756-lead-principal-systems-engineer-zero-boil-off) |
+| Offensive Security Engineer | vitalize | United States | 2026-11-19 11:28 UTC | relocation | [Apply](https://jaabz.com/jobs/308758-red-team-engineer-security) |
+| Senior Mechanical Design Lead - Space Hardware | akuaro | SPAIN | 2026-11-19 11:26 UTC | relocation | [Apply](https://jaabz.com/jobs/308761-senior-mechanical-design-lead-spacecraft-advanced-mechanical-engineering) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
