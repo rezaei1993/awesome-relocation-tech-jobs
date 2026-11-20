@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-19 16:11** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-20 15:50** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Embedded Software Engineer Level 3/4 | northrop grumman | United States | 2026-11-19 16:08 UTC | relocation | [Apply](https://jaabz.com/jobs/308972-embedded-software-engineer-a-level-3-or-4) |
-| Senior Network Administrator | pilbara ports | AUSTRALIA | 2026-11-19 15:07 UTC | relocation | [Apply](https://jaabz.com/jobs/308836-senior-network-administrator) |
-| Data Scientist - Marketing Science & Operations | trivago | GERMANY | 2026-11-19 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308940-data-scientist-marketing) |
-| ESS Product Corporate Strategy & Planning Sr. Manager/Director | pending (linkedin.com) | United States | 2026-11-19 14:46 UTC | relocation | [Apply](https://jaabz.com/jobs/308897-ess-product-strategy-and-planning-sr-mangerdirector-korean-fluency) |
-| Analytics Engineering Lead | clarios | SLOVAKIA | 2026-11-19 14:19 UTC | relocation | [Apply](https://jaabz.com/jobs/308913-analytics-engineering-lead) |
-| Community Management Lead | Frontier Developments | UNITED KINGDOM | 2026-11-19 14:18 UTC | relocation | [Apply](https://jaabz.com/jobs/308918-community-management-lead) |
-| Applied Machine Learning Engineer | thinkermesh | PORTUGAL | 2026-11-19 13:46 UTC | relocation | [Apply](https://jaabz.com/jobs/308864-applied-machine-learning-engineer) |
-| Frontend Engineer | arondite | UNITED KINGDOM | 2026-11-19 13:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308857-frontend-software-engineer) |
-| Senior Testing & Characterization Lead | Darwin Recruitment | NETHERLANDS | 2026-11-19 12:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308747-pic-characterization) |
-| Systems Engineer | confidential venture-backed technology company | United States | 2026-11-19 12:12 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308810-systems-engineer) |
-| Quality Assurance Engineer - Conversational AI & Voice | Miratech | CANADA | 2026-11-19 12:11 UTC | relocation | [Apply](https://jaabz.com/jobs/308748-quality-assurance-engineer-a-conversational-ai-voice-testing) |
-| AI Workflow Specialist | Puffy | UNITED ARAB EMIRATES | 2026-11-19 11:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/308787-ai-workflow-specialist-on-site-in-dubai) |
-| Lead Principal Systems Engineer, Zero Boil Off (ZBO) Cryocooler | Blue Origin | United States | 2026-11-19 11:30 UTC | relocation | [Apply](https://jaabz.com/jobs/308756-lead-principal-systems-engineer-zero-boil-off) |
-| Offensive Security Engineer | vitalize | United States | 2026-11-19 11:28 UTC | relocation | [Apply](https://jaabz.com/jobs/308758-red-team-engineer-security) |
-| Senior Mechanical Design Lead - Space Hardware | akuaro | SPAIN | 2026-11-19 11:26 UTC | relocation | [Apply](https://jaabz.com/jobs/308761-senior-mechanical-design-lead-spacecraft-advanced-mechanical-engineering) |
+| Security Operations Center Analyst | BrainRocket | CYPRUS | 2026-11-20 15:47 UTC | relocation | [Apply](https://jaabz.com/jobs/309746-soc-l2-analyst) |
+| Senior Strategy Consultant, Data AI and Technology | Fusion Consulting | GERMANY | 2026-11-20 15:41 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309731-data-strategy-consultant) |
+| Senior Machine Learning Engineer – Perception | fruition group us | United States | 2026-11-20 15:34 UTC | relocation | [Apply](https://jaabz.com/jobs/309738-senior-machine-learning-engineer) |
+| General Manager - Commercialization | CoVar | United States | 2026-11-20 15:28 UTC | relocation | [Apply](https://jaabz.com/jobs/309715-general-manager-ai-test-evaluation-products) |
+| High-Frequency Quant Developer - Low-Latency Core Systems | FORTE ICT | CHINA | 2026-11-20 15:01 UTC | relocation | [Apply](https://jaabz.com/jobs/309686-low-latency-core-systems-developer-us-global-equities-1-15-million-basic-salary-plus-lucarative-sign-on-bonus-and-benefits) |
+| Quant Researcher – High-Frequency Trading (HFT) | Code Compass 🧭 | SWITZERLAND | 2026-11-20 13:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309567-quantitative-researcher-hft) |
+| Senior Design Manager, Core Team | nubank | United States | 2026-11-20 13:42 UTC | relocation | [Apply](https://jaabz.com/jobs/309582-senior-design-manager-core-team) |
+| Sr Principal Cloud Engineer | northrop grumman | United States | 2026-11-20 13:41 UTC | relocation | [Apply](https://jaabz.com/jobs/309583-sr-principal-devops-engineer-aht-position-qualifies-for-sign-on-bonus-starting-at-7k) |
+| Senior Linux Infrastructure Engineer | FinDev | POLAND | 2026-11-20 13:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309646-linux-infrastructure-engineer) |
+| Principal Product Manager – Agentic AI Insights | Productboard | CZECHIA | 2026-11-20 13:36 UTC | relocation | [Apply](https://jaabz.com/jobs/309589-principal-product-manager-ai-insights-prague-remote-europe) |
+| Staff Product Manager | Productboard | CZECHIA | 2026-11-20 13:29 UTC | relocation | [Apply](https://jaabz.com/jobs/309590-staff-product-manager-a-enterprise-ai-prague-remote-europe) |
+| Senior QA Engineer | FxPro | CYPRUS | 2026-11-20 13:24 UTC | relocation | [Apply](https://jaabz.com/jobs/309608-senior-qa-engineer-relocation-to-cyprus) |
+| Forward Deployed Engineer - AI Workflows | Puffy | UNITED ARAB EMIRATES | 2026-11-20 13:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309613-forward-deployed-engineer-on-site-in-dubai) |
+| Security Compliance Manager | Miratech | UKRAINE | 2026-11-20 13:15 UTC | relocation | [Apply](https://jaabz.com/jobs/309622-security-compliance-manager) |
+| Senior Quantitative Analyst â Energy Trading | proghres | EMEA | 2026-11-20 12:44 UTC | relocation | [Apply](https://jaabz.com/jobs/271483-senior-quantitative-analyst-a-energy-trading) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
