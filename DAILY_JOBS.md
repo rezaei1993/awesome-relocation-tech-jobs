@@ -1,11 +1,46 @@
 # Daily Relocation Tech Jobs from Jaabz
 
-_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-11-21 14:59**_
+_Auto-updated daily from [Jaabz](https://jaabz.com) · last refresh (UTC): **2026-11-22 14:58**_
 
 Browse more: [Relocation hub](https://jaabz.com/jobs/relocation)
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-11-22 14:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Senior / Staff Product Engineer (Tech Agnostic) | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 13:10 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311008-senior-staff-product-engineers-tech-agnostic-production-agentic-ai-european-relocation-to-london-aps100k-aps200k-equity-aps15k-relocation-package-family-visa-sponsorship) |
+| Product Engineer / Mid / Senior / Lead | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 13:09 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311010-x9-product-engineers-mid-senior-lead-tech-agnostic-go-python-jvm-ts-rust-kotlin-production-agentic-ai-london-hybrid-3-days-aps80-140k-equity-visa-relocate) |
+| Full Stack Software Engineer (C#/.NET) | nt-ware systemprogrammierungs-gmbh | GERMANY | 2026-11-22 12:50 UTC | relocation | [Apply](https://jaabz.com/jobs/311017-full-stack-engineer) |
+| Graphic Designer - Growth | Meesho | INDIA | 2026-11-22 12:48 UTC | relocation | [Apply](https://jaabz.com/jobs/311028-graphic-designer) |
+| Software Developer | Epic | United States | 2026-11-22 12:47 UTC | relocation | [Apply](https://jaabz.com/jobs/311021-software-engineer) |
+| Senior Product Engineer (Python / Go / TS ) / Production Agentic AI / B2C Start-up, Series A / £100k-£250k + Equity / London (5 Days) / Visa Sponsorship + Relocation | owen thomas / b corp™ | UNITED KINGDOM | 2026-11-22 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311009-senior-product-engineer-python-go-ts-production-agentic-ai-b2c-start-up-series-a-aps100k-aps250k-equity-london-5-days-visa-sponsorship-relocation) |
+| Technical Lead, Applied AI | mistral ai | AUSTRALIA | 2026-11-22 12:18 UTC | relocation | [Apply](https://jaabz.com/jobs/310992-applied-ai-technical-lead-forward-deployed-ai-engineer-australia) |
+| Cloud DevOps Engineer | FinDev | GEORGIA | 2026-11-22 11:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310950-cloud-devops-engineer) |
+| Data Engineer | fonio.ai | AUSTRIA | 2026-11-22 10:47 UTC | relocation | [Apply](https://jaabz.com/jobs/310940-marketing-engineer) |
+| Windows Server Engineer | Epic | United States | 2026-11-22 08:45 UTC | relocation | [Apply](https://jaabz.com/jobs/310688-windows-server-engineer) |
+| Founding Full-Stack Engineer | dex | United States | 2026-11-22 05:36 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/257203-founding-full-stack-engineer-up-to-220k) |
+| Senior Business Analyst | Capital One | United States | 2026-11-22 05:31 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310855-senior-business-analyst-pulse-global-payment-network) |
+| Senior C++ Engineer | Chainsage | United States | 2026-11-22 05:05 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310844-senior-c-engineer) |
+| Senior Electrical Engineer | amrize | United States | 2026-11-22 00:57 UTC | relocation | [Apply](https://jaabz.com/jobs/310798-senior-electrical-engineer) |
+| Software Developer | Epic | United States | 2026-11-22 00:49 UTC | relocation | [Apply](https://jaabz.com/jobs/310782-entry-level-software-developer) |
+| Full-Stack Developer Intern | extramus.eu | ITALY | 2026-11-22 00:40 UTC | relocation | [Apply](https://jaabz.com/jobs/244048-full-stack-development) |
+| Technical Recruiting Lead | clera talent | United States | 2026-11-21 23:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310770-mid-level-technical-recruiter) |
+| D365 F&O / Adobe Commerce Web Developer | taskverse | United States | 2026-11-21 23:08 UTC | relocation | [Apply](https://jaabz.com/jobs/310729-web-developer) |
+| Windows Server Engineer | Epic | United States | 2026-11-21 20:41 UTC | relocation | [Apply](https://jaabz.com/jobs/310698-senior-windows-server-engineer) |
+| Software Developer | Epic | United States | 2026-11-21 20:26 UTC | relocation | [Apply](https://jaabz.com/jobs/310685-entry-level-software-developer) |
+| Mobile Application Developer Intern | extramus.eu | ITALY | 2026-11-21 20:24 UTC | relocation | [Apply](https://jaabz.com/jobs/243823-application-development) |
+| Software Architect / Solutions Architect | air apps | GREATER ROME METROPOLITAN AREA | 2026-11-21 18:47 UTC | relocation | [Apply](https://jaabz.com/jobs/257513-software-architect) |
+| Quality Engineer | brunswick corporation | United States | 2026-11-21 18:34 UTC | relocation | [Apply](https://jaabz.com/jobs/310651-mercury-marine-quality-engineer-assembly) |
+| User Acquisition Manager (Performance Marketing) - Lisbon | air apps | IRELAND | 2026-11-21 18:28 UTC | relocation | [Apply](https://jaabz.com/jobs/273779-user-acquisition-specialist) |
+| Social Media Manager | air apps | BERLIN METROPOLITAN AREA | 2026-11-21 18:26 UTC | relocation | [Apply](https://jaabz.com/jobs/238374-social-media-manager) |
+| Mid-Level Classified Linux System Administrator | Boeing | United States | 2026-11-21 18:14 UTC | relocation | [Apply](https://jaabz.com/jobs/310630-mid-level-classified-linux-system-administrator-sign-on-bonus-potential) |
+| Windows Server Engineer | Epic | United States | 2026-11-21 18:03 UTC | relocation | [Apply](https://jaabz.com/jobs/310620-windows-server-engineer) |
+| Systems Administrator | air apps | IRELAND | 2026-11-21 18:01 UTC | relocation | [Apply](https://jaabz.com/jobs/262727-system-administrator) |
+| Software Developer - Epic | Epic | United States | 2026-11-21 18:01 UTC | relocation | [Apply](https://jaabz.com/jobs/310618-software-engineer) |
+| Engineer / Researcher - General Capabilities (Agent Systems) | callosum | UNITED KINGDOM | 2026-11-21 17:51 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310598-general-capabilities-member-of-technical-staff) |
+| Staff Software Engineer - Site Reliability | Harvey | United States | 2026-11-21 17:50 UTC | relocation | [Apply](https://jaabz.com/jobs/310599-staff-software-engineer-site-reliability-engineer) |
+| Product Security Engineer | qt technologies ireland limited | IRELAND | 2026-11-21 17:48 UTC | relocation | [Apply](https://jaabz.com/jobs/310601-product-security-engineer-ai-driven-vulnerability-research-cork-ireland) |
+| Senior Software Engineer - Relocation Assistance Available | Boeing | United States | 2026-11-21 17:48 UTC | relocation | [Apply](https://jaabz.com/jobs/274318-senior-software-engineer-relocation-assistance-available) |
+| Senior Principal Network Engineer | northrop grumman | United States | 2026-11-21 15:57 UTC | relocation | [Apply](https://jaabz.com/jobs/310561-sr-principal-networking-engineer) |
 | Forward Deployed Engineer | mor search | UNITED KINGDOM | 2026-11-21 14:16 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310490-forward-deployed-engineer) |
 | Lead APAC Production Support Engineer - Python / Front Office Trading | Bonhill Partners | — | 2026-11-21 13:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/310499-lead-apac-production-support-engineer-a-python-front-office-trading) |
 | Senior Site Reliability Engineer | Doctolib | FRANCE | 2026-11-21 11:32 UTC | relocation | [Apply](https://jaabz.com/jobs/310437-senior-site-reliability-engineer-xfm) |
@@ -46,41 +81,6 @@ Browse more: [Relocation hub](https://jaabz.com/jobs/relocation)
 | Senior Linux Infrastructure Engineer | FinDev | POLAND | 2026-11-20 13:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309646-linux-infrastructure-engineer) |
 | Principal Product Manager – Agentic AI Insights | Productboard | CZECHIA | 2026-11-20 13:36 UTC | relocation | [Apply](https://jaabz.com/jobs/309589-principal-product-manager-ai-insights-prague-remote-europe) |
 | Staff Product Manager | Productboard | CZECHIA | 2026-11-20 13:29 UTC | relocation | [Apply](https://jaabz.com/jobs/309590-staff-product-manager-a-enterprise-ai-prague-remote-europe) |
-| Senior QA Engineer | FxPro | CYPRUS | 2026-11-20 13:24 UTC | relocation | [Apply](https://jaabz.com/jobs/309608-senior-qa-engineer-relocation-to-cyprus) |
-| Forward Deployed Engineer - AI Workflows | Puffy | UNITED ARAB EMIRATES | 2026-11-20 13:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309613-forward-deployed-engineer-on-site-in-dubai) |
-| Security Compliance Manager | Miratech | UKRAINE | 2026-11-20 13:15 UTC | relocation | [Apply](https://jaabz.com/jobs/309622-security-compliance-manager) |
-| Senior Quantitative Analyst â Energy Trading | proghres | EMEA | 2026-11-20 12:44 UTC | relocation | [Apply](https://jaabz.com/jobs/271483-senior-quantitative-analyst-a-energy-trading) |
-| DevOps Engineer / Senior DevOps Engineer | _nology | UNITED KINGDOM | 2026-11-20 12:38 UTC | relocation | [Apply](https://jaabz.com/jobs/309585-devops-engineer-senior-devops-engineer-drive-innovation-at-scale) |
-| Senior Site Reliability Engineer | BlockTech | NETHERLANDS | 2026-11-20 12:37 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309587-senior-site-reliability-engineer-trading-infrastructure-pythonlinux) |
-| Junior UX/UI Designer | KWAN | PORTUGAL | 2026-11-20 12:29 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309579-junior-uxui-designer) |
-| Staff Engineer (AI Solutions & Full-Stack Development) – Dubai Office | Nameless Ventures | UNITED ARAB EMIRATES | 2026-11-20 12:20 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287958-staff-engineer) |
-| Software Development Professional | b. braun medical (us) inc | United States | 2026-11-20 12:20 UTC | relocation | [Apply](https://jaabz.com/jobs/309565-sr-software-developer) |
-| Data Scientist – Deep Learning for Spatio-Temporal Applications | fondazione bruno kessler - fbk | ITALY | 2026-11-20 10:32 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309510-developers-for-the-development-and-validation-of-ai-models-in-time-series-analysis-and-forecasting) |
-| Digital Employer Brand & Talent Marketing Manager (Hybrid, Manila) | Salmon Group Ltd | KAZAKHSTAN | 2026-11-20 10:31 UTC | relocation | [Apply](https://jaabz.com/jobs/273936-employer-brand-digital-communications-manager) |
-| Senior Product Manager - Autonomous IT Agent (Spark) | Nexthink | SWITZERLAND | 2026-11-20 10:00 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/268382-senior-product-manager-ai-agent) |
-| Program Lead / Systems Engineer - Quadruped Robotics | asiacruit | INDIA | 2026-11-20 09:58 UTC | relocation | [Apply](https://jaabz.com/jobs/309483-program-lead-systems-engineer-a-quadruped-robotics-physical-ai-defence) |
-| IT Infrastructure Specialist | Scalable Capital | GERMANY | 2026-11-20 09:46 UTC | relocation | [Apply](https://jaabz.com/jobs/147029-it-support-engineer-mfx) |
-| Strategy & Analytics Manager | Agoda | THAILAND | 2026-11-20 07:52 UTC | relocation | [Apply](https://jaabz.com/jobs/309456-senior-analyst-commercial-strategy-bangkok-based-relocation-provided) |
-| Strategy & Analytics Analyst | Agoda | THAILAND | 2026-11-20 07:51 UTC | relocation | [Apply](https://jaabz.com/jobs/309457-senior-commercial-analyst-bangkok-based-relocation-provided) |
-| Platform Engineer (Developer Platform, Reliability, Security & Quality) | Catawiki | NETHERLANDS | 2026-11-20 07:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/274847-platform-engineer) |
-| Program Manager 3 | northrop grumman | United States | 2026-11-20 06:25 UTC | relocation | [Apply](https://jaabz.com/jobs/309414-weapons-integration-program-manager-3) |
-| Founding Full-Stack Engineer | dex | United States | 2026-11-20 06:02 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/257203-founding-full-stack-engineer-up-to-220k) |
-| Control Systems Engineer (Maintenance) | antares tech | United States | 2026-11-20 06:01 UTC | relocation | [Apply](https://jaabz.com/jobs/309398-control-systems-engineer-maintenance) |
-| Product Manager | lumos bridge | PHILIPPINES | 2026-11-20 05:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309399-product-manager-mandarin-english) |
-| Combustion Engineer | The Exploration Company | FRANCE | 2026-11-20 05:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309384-combustion-engineer) |
-| Machine Learning Scientist - HTX Pipeline | EMBL | FRANCE | 2026-11-20 05:43 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309381-research-ai-engineer-for-high-throughput-crystallography-and-drug-discovery) |
-| Senior Software Engineer - Relocation Assistance Available | Boeing | United States | 2026-11-20 05:40 UTC | relocation | [Apply](https://jaabz.com/jobs/274318-senior-software-engineer-relocation-assistance-available) |
-| Chief Technology Officer | sleekflow | CHINA | 2026-11-20 04:20 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/309360-chief-technology-officer-relocating-to-hong-kong) |
-| Chief Technology Officer (CTO) - AI-Native Platform & Engineering Leadership | sleekflow | SINGAPORE | 2026-11-20 04:18 UTC | remote, relocation | [Apply](https://jaabz.com/jobs/288142-chief-technology-officer-relocating-to-hong-kong) |
-| Software Developer | Epic | United States | 2026-11-20 02:03 UTC | relocation | [Apply](https://jaabz.com/jobs/309324-entry-level-software-developer) |
-| Mechanism Engineer | The Exploration Company | GERMANY | 2026-11-20 01:30 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309298-multibody-dynamics-analyst) |
-| Spacecraft Thermal Engineer | The Exploration Company | GERMANY | 2026-11-19 23:53 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/309242-spacecraft-thermal-engineer) |
-| Talent Acquisition Manager | auberge collection | United States | 2026-11-19 21:37 UTC | relocation | [Apply](https://jaabz.com/jobs/309200-talent-acquisition-manager-campus) |
-| Quality Assurance Engineer | wata software | JAPAN | 2026-11-19 21:24 UTC | relocation | [Apply](https://jaabz.com/jobs/309194-qc-engineer-claude-insurance-domain) |
-| Full-Stack Software Developer, Research and Development | b. braun medical, inc. | United States | 2026-11-19 21:13 UTC | relocation | [Apply](https://jaabz.com/jobs/309171-software-developer) |
-| Infrastructure Engineer | Epic | United States | 2026-11-19 20:59 UTC | relocation | [Apply](https://jaabz.com/jobs/309174-infrastructure-engineer) |
-| Senior Product Analyst | prequel | MONTENEGRO | 2026-11-19 19:57 UTC | relocation | [Apply](https://jaabz.com/jobs/309154-senior-product-analyst) |
-| Monitoring Engineer | TradingView | GEORGIA | 2026-11-19 19:55 UTC | relocation | [Apply](https://jaabz.com/jobs/309155-monitoring-engineer) |
 
 ## About this file
 
