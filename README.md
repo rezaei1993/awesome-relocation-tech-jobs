@@ -31,6 +31,7 @@ Boards where relocation assistance (and related visa support) is a primary filte
 10. [Wellfound](https://wellfound.com/jobs) — Startup jobs; immigration / sponsorship filters.
 11. [Honeypot](https://www.honeypot.io/) — Europe developer matching with relocating employers.
 12. [LinkedIn](https://www.linkedin.com/jobs/) — Keywords: `relocation`, `relocation package`, `visa support` + target city.
+13. [EuroJobs.ai](https://eurojobs.ai) — 28,000+ IT jobs across Europe aggregated hourly from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others). Has dedicated filters for visa sponsorship, country, and English-speaking teams.
 
 ## Daily jobs from Jaabz
 
