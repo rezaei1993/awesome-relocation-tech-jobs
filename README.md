@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-23 18:52** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-24 18:28** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| Backend / Distributed Systems Engineer | kastel group | — | 2026-11-23 18:39 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311818-back-end-developer) |
-| Embedded Software Engineer | theon group | SOUTH AFRICA | 2026-11-23 18:35 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311824-embedded-software-engineer-a-isr-systems) |
-| FPGA Engineer – ISR Systems | theon group | SOUTH AFRICA | 2026-11-23 18:34 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311826-fpga-soc-engineer-a-isr-systems) |
-| Senior Machine Learning Engineer | Libertex Group | SERBIA | 2026-11-23 18:28 UTC | relocation | [Apply](https://jaabz.com/jobs/311927-machine-learning-engineer-remote-or-relocation-to-montenegro) |
-| Backend Software Engineer | Zalando | — | 2026-11-23 18:25 UTC | relocation | [Apply](https://jaabz.com/jobs/311926-software-engineer-order-management-kotlinjava-all-genders) |
-| IT Operations Technician | Epic | United States | 2026-11-23 18:22 UTC | relocation | [Apply](https://jaabz.com/jobs/311857-it-operations-technician) |
-| Technical Seller, AI Products | Ramp | United States | 2026-11-23 18:21 UTC | relocation | [Apply](https://jaabz.com/jobs/311924-ai-solutions-engineer) |
-| Engineering Manager, Verifications | checkr | United States | 2026-11-23 18:15 UTC | relocation | [Apply](https://jaabz.com/jobs/311906-engineering-manager) |
-| Product Manager, Logistics Service Automations | Delivery Hero | GERMANY | 2026-11-23 18:04 UTC | relocation | [Apply](https://jaabz.com/jobs/311875-product-manager-logistics-service-automations) |
-| KTP Associate: Machine Learning/Computational Modelling Engineer | iomosaic international ltd | UNITED KINGDOM | 2026-11-23 17:57 UTC | relocation | [Apply](https://jaabz.com/jobs/311898-ktp-associate-machine-learningcomputational-modelling-engineer) |
-| Category Analytics Manager | kiss beauty group | United States | 2026-11-23 17:40 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/311880-category-analytics-manager) |
-| Automation and Controls Engineer | Caterpillar Inc. | United States | 2026-11-23 17:36 UTC | relocation | [Apply](https://jaabz.com/jobs/311873-automation-and-controls-engineer) |
-| Windows Server Engineer | Epic | United States | 2026-11-23 17:33 UTC | relocation | [Apply](https://jaabz.com/jobs/310688-windows-server-engineer) |
-| Senior Platform Engineer | bank for international settlements | SWITZERLAND | 2026-11-23 17:29 UTC | relocation | [Apply](https://jaabz.com/jobs/311859-senior-platform-engineer) |
-| IT Operations Technician | Epic | United States | 2026-11-23 17:28 UTC | relocation | [Apply](https://jaabz.com/jobs/311856-it-operations-technician) |
+| Banking SME / Product Owner – Digital Banking | strike it recruitment services | SAUDI ARABIA | 2026-11-24 18:28 UTC | relocation | [Apply](https://jaabz.com/jobs/312687-banking-sme-product-owner-a-digital-banking) |
+| Software Engineer – Image Processing | meridial | UNITED KINGDOM | 2026-11-24 18:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312688-meridial-a-senior-research-software-engineer-a-image-processing) |
+| Senior Controls Engineer – PLC/HMI | rhodes wolfe | United States | 2026-11-24 18:16 UTC | relocation | [Apply](https://jaabz.com/jobs/312684-senior-controls-engineer-plchmi) |
+| Senior Automation & Controls Engineering Lead | rgbsi | United States | 2026-11-24 18:15 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312683-senior-automation-engineer) |
+| Software Engineer, AI Agent Infrastructure | inventure | United States | 2026-11-24 18:14 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312681-software-engineer-ai-agent-infrastructure-formal-verification-26m-seed-220k-350k-equity) |
+| Manager, IT Infrastructure & Support | TEEMA | CANADA | 2026-11-24 18:02 UTC | relocation | [Apply](https://jaabz.com/jobs/312666-information-technology-manager) |
+| Senior Software Engineer - Relocation Assistance Available | Boeing | United States | 2026-11-24 17:50 UTC | relocation | [Apply](https://jaabz.com/jobs/274318-senior-software-engineer-relocation-assistance-available) |
+| Engineering Manager (Product) | Multiverse Computing | SPAIN | 2026-11-24 17:18 UTC | relocation | [Apply](https://jaabz.com/jobs/312616-engineering-manager-product) |
+| Technical Product Manager | MSD Czech Republic | CZECHIA | 2026-11-24 16:54 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312549-product-manager-crm-sales-ops-associate-director) |
+| Product Management Rotational Program | Ten Square Games | POLAND | 2026-11-24 16:48 UTC | relocation | [Apply](https://jaabz.com/jobs/312555-junior-product-manager-a-rotational-program) |
+| AI Engineer, LLM Engineer, Data Scientist | Superstars | JAPAN | 2026-11-24 16:25 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312561-weare-hiring-ai-engineers-llm-engineers-data-scientists-d-ayen6maayen12m-yearly-d-tokyo-japan-hybrid-d-visa-sponsorship-relocation-support-available) |
+| Data Engineers, Data Analysts & IT Consultants | Superstars | JAPAN | 2026-11-24 16:23 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/312562-d-weare-hiring-data-engineers-data-analysts-it-consultants-d-ayen5maayen15m-d-tokyo-japan-hybridremote-d-visa-sponsorship-relocation-support-available) |
+| SVP - Marketing & Sales Strategy | richmond flying squirrels | United States | 2026-11-24 16:22 UTC | relocation | [Apply](https://jaabz.com/jobs/312568-svp-marketing-sales-strategy) |
+| Dutch-Speaking Ads Sales and Onboarding Specialist | quantivos | SPAIN | 2026-11-24 16:16 UTC | relocation | [Apply](https://jaabz.com/jobs/312573-dutch-google-ads-specialist-a-relocation-barcelona) |
+| Country Learning and Development Lead | IKEA | United States | 2026-11-24 16:13 UTC | relocation | [Apply](https://jaabz.com/jobs/312599-country-leadership-learning-development-manager) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
