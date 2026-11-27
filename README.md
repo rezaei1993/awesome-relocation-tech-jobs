@@ -41,25 +41,25 @@ Fresh **Relocation** roles are updated automatically every day:
 <!-- JAABZ-DAILY-JOBS:START -->
 ## Today's Relocation jobs from Jaabz
 
-_Auto-updated · UTC **2026-11-26 17:25** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
+_Auto-updated · UTC **2026-11-27 17:05** · showing **15** of 75 · [full digest](DAILY_JOBS.md) · [Relocation hub](https://jaabz.com/jobs/relocation)_
 
 | Role | Company | Country | Posted (UTC) | Tags | Link |
 | --- | --- | --- | --- | --- | --- |
-| VIP Growth Programme Manager | Bybit | UNITED ARAB EMIRATES | 2026-11-26 16:52 UTC | relocation | [Apply](https://jaabz.com/jobs/314188-growth-strategy-expert) |
-| Organic Social Media Specialist | immense group | MALTA | 2026-11-26 16:26 UTC | relocation | [Apply](https://jaabz.com/jobs/314187-social-media-manager) |
-| Product Marketing Specialist | 1m technology global | VIETNAM | 2026-11-26 16:22 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314185-product-marketing-specialist) |
-| Senior Product Marketing Manager | Stealth Startup | United States | 2026-11-26 16:19 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314184-senior-product-marketing-manager) |
-| Principal or Sr. Principal DevOps Engineer | northrop grumman | United States | 2026-11-26 16:18 UTC | relocation | [Apply](https://jaabz.com/jobs/314181-principal-or-sr-principal-devops-engineer) |
-| Senior Database Administrator (DBA) - AI-Powered Platform | air apps | BERLIN METROPOLITAN AREA | 2026-11-26 15:56 UTC | relocation | [Apply](https://jaabz.com/jobs/291636-database-administrator-dba) |
-| Data Scientist - Quantum Manufacturing and Test | northrop grumman | United States | 2026-11-26 15:46 UTC | relocation | [Apply](https://jaabz.com/jobs/314152-sr-principal-data-scientist) |
-| Senior Flutter Engineer | Jobgether | SWITZERLAND | 2026-11-26 15:43 UTC | relocation | [Apply](https://jaabz.com/jobs/314154-senior-flutter-engineer) |
-| Web Engineer – Knowledge Platform (Python / Vue.js) | g talent | JAPAN | 2026-11-26 15:35 UTC | relocation | [Apply](https://jaabz.com/jobs/314150-aweb-engineerpythonvuejsaglobal-knowledge-sharing-tech-co-hybrid-japanese-n2i) |
-| HR Data & Reward Analyst | allianz asset management | GERMANY | 2026-11-26 15:12 UTC | relocation | [Apply](https://jaabz.com/jobs/314119-hr-data-reward-analyst-fmd-asset-management) |
-| Staff Software Engineer - Backend (Bangkok based, Relocation provided) | Agoda | TAIWAN | 2026-11-26 14:56 UTC | relocation | [Apply](https://jaabz.com/jobs/314116-staff-software-engineer-backend-bangkok-based-relocation-provided) |
-| Data Engineer – Autonomous Driving (Contract) | Set2Recruit | UNITED ARAB EMIRATES | 2026-11-26 14:53 UTC | relocation | [Apply](https://jaabz.com/jobs/314115-perception-data-engineer) |
-| Robotics Co-Founder | Airbotics Talent | United States | 2026-11-26 14:52 UTC | relocation | [Apply](https://jaabz.com/jobs/314114-robotics-co-founder) |
-| Perception Machine Learning Engineer | saildrone | United States | 2026-11-26 14:11 UTC | relocation | [Apply](https://jaabz.com/jobs/314106-perception-machine-learning-engineer) |
-| Senior Product Manager – Education & Skills Development | qa ltd | SWITZERLAND | 2026-11-26 13:53 UTC | relocation | [Apply](https://jaabz.com/jobs/314104-senior-product-manager) |
+| Manual QC Engineer (Mid/Senior) – Dubai, UAE | matchupf | UNITED ARAB EMIRATES | 2026-11-27 16:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315034-quality-control-engineer) |
+| Product Manager – Membership & Shared Member Experience | lyvra | JAPAN | 2026-11-27 16:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315021-web-product-manager-membership-points-platform-fluent-japanese) |
+| Technical Program Manager – Generative AI Customer Service Platform | talentia consulting | JAPAN | 2026-11-27 16:27 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/315018-technical-project-manager-n2-open-to-relocation) |
+| Mobile Developer | KWAN | PORTUGAL | 2026-11-27 16:26 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314816-mobile-developer) |
+| AI ML Engineer - Hamburg | Code Compass 🧭 | GERMANY | 2026-11-27 16:13 UTC | relocation | [Apply](https://jaabz.com/jobs/315009-ai-ml-engineer) |
+| Senior React Engineer (Onsite, Lisbon) | air apps | GREATER ROME METROPOLITAN AREA | 2026-11-27 16:12 UTC | relocation | [Apply](https://jaabz.com/jobs/289349-react-engineer) |
+| Embedded Software Engineer (C/C++) – Navigation Systems | GMV | SPAIN | 2026-11-27 16:04 UTC | relocation | [Apply](https://jaabz.com/jobs/315000-embedded-software-engineer-with-cc) |
+| Senior Healthcare Platform Engineer | Raydar | United States | 2026-11-27 15:18 UTC | relocation | [Apply](https://jaabz.com/jobs/314984-senior-healthcare-platform-engineer) |
+| Software Architect / Solutions Architect | air apps | GREATER ROME METROPOLITAN AREA | 2026-11-27 15:00 UTC | relocation | [Apply](https://jaabz.com/jobs/257513-software-architect) |
+| Senior/Staff/Principal Physical IC Design Engineer (ASIC) | CyberCoders | United State | 2026-11-27 14:57 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/287921-physical-design-engineer-senior-staff-or-principal-up-to-580k) |
+| Senior Analytics Engineer – Marketing Data | Scout24 SE | GERMANY | 2026-11-27 14:50 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314950-senior-marketing-analytics-engineer-dmf) |
+| Social Media Manager | air apps | BERLIN METROPOLITAN AREA | 2026-11-27 14:49 UTC | relocation | [Apply](https://jaabz.com/jobs/238374-social-media-manager) |
+| Senior Analytics Engineer – Marketing Data | scout24 | GERMANY | 2026-11-27 14:48 UTC | visa, relocation | [Apply](https://jaabz.com/jobs/314951-senior-marketing-analytics-engineer-dmf) |
+| Senior Data Engineer (Data Platform & Analytics) | Scalable Capital | GERMANY | 2026-11-27 14:47 UTC | relocation | [Apply](https://jaabz.com/jobs/142478-senior-data-engineer-mfx) |
+| Senior FPGA / Digital Design Engineer | qendra | SWITZERLAND | 2026-11-27 14:44 UTC | relocation | [Apply](https://jaabz.com/jobs/314923-senior-fpga-digital-design-engineer) |
 
 <!-- JAABZ-DAILY-JOBS:END -->
 
